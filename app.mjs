@@ -2,12 +2,9 @@
 import { defineConfig, createNotesQuery } from "./.app/app-config.js";
 
 export default defineConfig({
-  title: "Eleventy Notes",
+  title: "Will Simpson's Notes",
   description:
     "A simple, lightweight, and flexible note-taking template for Eleventy.",
-  editThisNote: {
-    url: "https://github.com/rothsandro/eleventy-notes/edit/{{branch}}/{{file}}",
-  },
   customProperties: {
     properties: [
       {
