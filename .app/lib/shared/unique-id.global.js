@@ -2,6 +2,7 @@
  * Creates a uniqueId filter.
  * @returns The filter function.
  */
+import crypto from "crypto";
 export const uniqueIdGlobal = () => {
   /**
    * Filter to create a unique ID.
