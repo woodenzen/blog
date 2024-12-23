@@ -25,8 +25,7 @@ export default async function (eleventyConfig) {
   wikilinksModule.setup(eleventyConfig);
   assetsModule.setup(eleventyConfig);
   await translationModule.setup(eleventyConfig);
-
+  // Add passthrough copy for the CSS directory
+  eleventyConfig.addPassthroughCopy(".app/css");
   core.setup(eleventyConfig);
 }
-
-
