@@ -13,9 +13,12 @@ export const sidebarSectionsCollection =
     const sections = app.sidebar.sections.flatMap((section) => {
       const groups = section.groups.flatMap((group) => {
         const runner = new dynamicContentModule.QueryRunner(notes, group.query);
-        const filteredNotes = runner.run(notes);
+        let filteredNotes = runner.run(notes); // Use 'let' instead of 'const'
 
         if (!filteredNotes.length) return [];
+
+        // Sort filteredNotes by date in descending order
+        filteredNotes = filteredNotes.sort((a, b) => new Date(b.date) - new Date(a.date));
 
         return [
           {

@@ -3,7 +3,8 @@ title:      Capture Attention in Six Seconds
 description: 
 UUID:      ›[[202412081632]] 
 cdate:     12-08-2024 04:32 PM
-archive_tags:       #proofing #blog-post 
+date:  2024-12-08
+archive_tags:  #blog-post #attention 
 tags:       
       - attention
       - pitch

@@ -1,23 +1,24 @@
-// @ts-check
 import { defineConfig, createNotesQuery } from "./.app/app-config.js";
 
 export default defineConfig({
+  theme: {
+    color: "brown",
+  },
   title: "Will Simpson's Notes",
   description:
     "A simple, lightweight, and flexible note-taking template for Eleventy.",
   lang: "en",  
-    customProperties: {
-      properties: [
-        {
-          name: "cdate",
-          label: "Lovely Written",
-        },
-      ],
-    },
+  customProperties: {
+    properties: [
+      {
+        name: "cdate",
+        label: "Lovely Written",
+      },
+    ],
+  },
   sidebar: {
     links: [
       {
-        // For a list of available icons, see https://feathericons.com/
         url: "https://github.com/woodenzen",
         label: "GitHub",
         icon: "github",
@@ -29,22 +30,18 @@ export default defineConfig({
       },
     ],
     sections: [
-      {
+      { 
         label: "Notes",
         groups: [
           {
             query: createNotesQuery({
               pattern: "^/[^/]+$",
+              sortByDate: true, // Enable sorting by date
             }),
           },
         ],
       },
     ],
-  },
-  tags: {
-    map: {
-      "dynamic-content": "dynamic content",
-    },
   },
   editThisNote: {
     url: "thearchive://match/{{file}}",

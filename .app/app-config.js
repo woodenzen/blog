@@ -19,14 +19,16 @@ export function defineConfig(config) {
  * @param {NotesQuery} query
  * @returns {QueryDef}
  */
+
 export function createNotesQuery(query = {}) {
+  const { sortByDate, ...restQuery } = query;
   return {
-    sort: ["data.sort", "title"],
-    tree: query.tree ? query.tree : false,
+    sort: sortByDate ? { date: -1 } : ["data.sort", "title"],
+    tree: restQuery.tree ? restQuery.tree : false,
     filter: [
       ["filePathStem", "isNotEqual", "/index"],
-      ...(query.pattern ? [["filePathStem", "matches", query.pattern]] : []),
-      ...(query.tags ? [["tags", "includesAllOf", query.tags]] : []),
+      ...(restQuery.pattern ? [["filePathStem", "matches", restQuery.pattern]] : []),
+      ...(restQuery.tags ? [["tags", "includesAllOf", restQuery.tags]] : []),
     ],
   };
 }

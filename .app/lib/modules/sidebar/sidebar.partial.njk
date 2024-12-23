@@ -123,26 +123,4 @@
       </nav>
     {% endfor %}
   {% endif %}
-
-  {% if collections.tags.length %}
-    <nav aria-labelledby="app:sidebar:section:tags" class="nav-section">
-      <h3 id="app:sidebar:section:tags" class="nav-section__title" lang="{% uiLang %}">
-        {{ 'sidebar.sections.tags.label' | t }}
-      </h3>
-      <ul class="nav-list" role="list" aria-labelledby="app:sidebar:section:tags">
-        {% for tag in collections.tags %}
-        <li>
-          <a
-            href="{{ tag.url }}"
-            {{ tag.url | ariaCurrent }}
-            class="nav-list__link"
-          >
-            {{ 'hash' | featherRef | safe }}
-            <span>{{ tag.label }}</span>
-          </a>
-        </li>
-        {% endfor %}
-      </ul>
-    </nav>
-  {% endif %}
 </aside>
