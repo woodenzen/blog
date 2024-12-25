@@ -4,6 +4,7 @@ UUID:      ›[[202412240805]]
 date:     2024-12-24
 archive_tags:       #proofing #blog-post 
 tags:       
+      - note
       - reading
       - writing
 description: Writing is both a source of personal fulfillment and a shared gift that bridges human experiences and well-being.

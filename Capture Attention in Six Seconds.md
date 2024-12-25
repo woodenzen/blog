@@ -6,6 +6,7 @@ cdate:     12-08-2024 04:32 PM
 date:  2024-12-08
 archive_tags:  #blog-post #attention 
 tags:       
+      - note
       - attention
       - pitch
 ---

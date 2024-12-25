@@ -4,6 +4,7 @@ UUID:      ›[[202412231629]]
 date:     2024-12-23
 archive_tags:  #blog-post #thinking-tool #zettelkasting 
 tags:       
+      - note
       - zettelkasting
       - journaling
       - uncertainty

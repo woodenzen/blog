@@ -5,6 +5,7 @@ cdate:     12-18-2024 05:31 AM
 date: 2024-12-18
 archive_tags:  #blog-post 
 tags:       
+      - blogpost
       - mindset
       - behavior
       - fundamental attribution error

@@ -5,6 +5,7 @@ cdate:     12-13-2024 05:38 AM
 date:  2024-12-13
 archive_tags:   #blog-post #personal_development 
 tags:       
+      - note
       - flourish
 description: What truly changes the game is when we decide to commit to being better at being better. - Seth Godin
 ---

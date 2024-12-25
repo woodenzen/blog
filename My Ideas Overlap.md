@@ -5,6 +5,7 @@ cdate:     12-13-2024 04:21 AM
 date:  2024-12-13
 archive_tags:   #blog-post #sketchnote  #drawing 
 tags:       
+      - note
       - sketch-note 
       - ideation 
 description: An example of my renewed sketchnoting. Drawing of a simple idea.

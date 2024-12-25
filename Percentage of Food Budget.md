@@ -5,6 +5,7 @@ cdate:     12-11-2024 02:08 PM
 date:  2024-12-11
 archive_tags:  #blog-post #economics 
 tags:       
+      - note
       - food_security
       - economics
 description: An infographic on worldwide food spending.
