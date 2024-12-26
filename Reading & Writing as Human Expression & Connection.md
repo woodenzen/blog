@@ -2,11 +2,9 @@
 title:      # Reading and Writing as Human Expression & Connection 
 UUID:      ›[[202412240805]] 
 date:     2024-12-24
-archive_tags:       #proofing #blog-post 
 tags:       
-      - note
-      - reading
-      - writing
+      - proofing  
+      - witness
 description: Writing is both a source of personal fulfillment and a shared gift that bridges human experiences and well-being.
 ---
 Reading and writing are not the end goals. Connection and expression are. I want to connect and exchange ideas and express my ideas as a reciprocal gift. 
