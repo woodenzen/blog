@@ -1,5 +1,5 @@
 ---
-title:      # Luna Cognita 
+title:      # Luna Explainer 
 UUID:      ›[[202412250919]] 
 date:     2024-12-25
 archive_tags:       #proofing #blog-post 
