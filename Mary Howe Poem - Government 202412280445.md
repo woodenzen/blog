@@ -2,7 +2,7 @@
 title:      # Mary Howe Poem - Government 
 UUID:      ›[[202412280445]] 
 date:     2024-12-28
-archive_tags:       #proofing #blog-post #poetry 
+archive_tags:       #blog-post #poetry 
 tags:       
       - poetry
 description: 
