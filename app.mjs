@@ -28,6 +28,11 @@ export default defineConfig({
         label: "My Other Blog",
         icon: "disc",
       },
+      {
+        url: "https://woodenzen.github.io/JAMM425-Magazine-Feature-Writing/",
+        label: "JAMM425 Magazine Feature Writing",
+        icon: "disc",
+      },
     ],
     sections: [
       { 
