@@ -2,7 +2,7 @@
 title:      # How Writing Reimagines Life 
 UUID:      ›[[202501040530]] 
 date:     2025-01-04
-archive_tags:       #proofing #blog-post #note #metaphor 
+archive_tags:       #blog-post #note #metaphor 
 tags:       
       - note
       - writing
