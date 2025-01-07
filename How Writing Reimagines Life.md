@@ -11,7 +11,7 @@ description: Writing creates a gravitational pull on ideas, reshaping how we rea
 GENIUS.COM
 James Somers 
 
-You'll live more curiously if you write. You'll become a researcher of the world you care about. It will come to life the more you look.
+James reminds me that living more curiously means writing. You'll become a researcher of the world you care about. It will come to life the more you look.
 
 #### A writing bucket.
 It has a traction force field that has a gravitational pull on ideas. Once a bucket of writing starts, reading and conversations change. They have new themes coinciding with the writing bucket. They have more meaning. 
