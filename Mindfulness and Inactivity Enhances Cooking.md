@@ -2,13 +2,12 @@
 title:      # Mindfulness and Inactivity Enhances Cooking 
 UUID:      ›[[202501090607]] 
 date:     2025-01-09
-archive_tags:       #proofing #blog-post #cooking #food 
+archive_tags:  #blog-post #cooking #food 
 tags:       
       - cooking
       - food
 description: 
 ---
-
 
 The hidden wealth of inactivity is often overlooked, but it’s crucial for creativity and mindfulness. Inactivity, often seen as mere idleness, is actually the fertile ground from which creative ideas sprout, offering a necessary pause for reflection and innovation. Inactivity is also a synonym for mindfulness. Both are empty of self and available in the midst of activity.
 
