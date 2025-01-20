@@ -4,8 +4,8 @@ UUID:      ›[[202501200915]]
 date:     2025-01-20
 archive_tags:   #proofing #blog-post     
 tags: 
-      -  blog-post
-      -  relationship
+      -  '#blog-post'
+      -  '#relationship'
 description: 
 ---
 
@@ -22,7 +22,7 @@ From James Reason's ~[Swiss Cheese model of human errors](https://pmc.ncbi.nlm.
 By reframing this and focusing on relationships instead of organizations, I see dysfunctionality in relationships as a consequence of upstream factors and a failure to notice the dysregulation in the situation. Failures in relationships are learning opportunities with a curious and welcoming position if I can weather the storm of the monkey mind as it dysregulates my awareness. 	
 
 #### Link: 
-Link - [Learning more about looking ahead together :: Sacha Chua](https://sachachua.com/blog/2025/01/learning-more-about-looking-ahead-together/)
+[Learning more about looking ahead together :: Sacha Chua](https://sachachua.com/blog/2025/01/learning-more-about-looking-ahead-together/)
 
 ----------------------------------
 <!--
