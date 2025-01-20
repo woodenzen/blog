@@ -3,7 +3,8 @@ title:      # Noticing Dysregulation in my Relationships
 UUID:      ›[[202501200915]] 
 date:     2025-01-20
 archive_tags:       
-tags: "#proofing" "#blog-post"
+tags: 
+     -  "#proofing" "#blog-post"
 description: 
 ---
 
