@@ -4,7 +4,7 @@ UUID:      ›[[202412250919]]
 date:     2024-12-25
 archive_tags:  #blog-post #science 
 tags:       
-      - notes
+      - note
       - explainer
       - astronomy
       - moon

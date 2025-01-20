@@ -5,7 +5,7 @@ cdate:     12-20-2024 05:23 AM
 date:  2024-12-20
 archive_tags:   #blog-post #conversation-skills 
 tags:       
-      - blogpost
+      - blog-post
       - conversation
       - mindset
       - behavior

@@ -6,6 +6,7 @@ archive_tags:   #blog-post #dashboard #web-zettelkasten
 tags:       
       - dashboard
       - zettelkasting
+      - note
 description: Lots of progress. 
 ---
 I spent some time today refining my ZK dashboard because I have changed a bit of the YAML for my notes in order to accommodate my blogging software, 11ty. I advanced my blogging with OpenAI's ChatGPT's help. 

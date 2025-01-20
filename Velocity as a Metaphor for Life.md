@@ -5,7 +5,7 @@ cdate:     12-19-2024 05:35 AM
 date:  2024-12-19
 archive_tags:  #blog-post #mental-models #fs.blog 
 tags:       
-      - blogpost
+      - blog-post
       - velocity
       - mental_model
       - physics
