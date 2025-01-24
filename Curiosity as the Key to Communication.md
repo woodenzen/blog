@@ -11,7 +11,7 @@ tags:
       - behavior
       - fundamental attribution error
       - correspondence bias
-description:  Genuinely engage in conversation with others by showing curiosity.
+description: Genuinely engage in conversation with others by showing curiosity.
 ---
 ![](media/IMG_0894.jpg)
 

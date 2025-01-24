@@ -10,7 +10,7 @@ tags:
       - behavior
       - fundamental attribution error
       - correspondence bias
-description:  The inner biases that shape our view of others—and how to reframe them.
+description: The inner biases that shape our view of others—and how to reframe them.
 ---
 Have you ever found out you've misinterpreted a friend's or loved one's behavior? It happens to me all the time. This lens on life plays a major role in all my interactions and is the primary cause of strife in some relationships.
 
