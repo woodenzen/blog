@@ -2,7 +2,7 @@
 title:      # Where Has All the Silence Gone 
 UUID:      ›[[202501220509]] 
 date:     2025-01-22
-archive tags:       #proofing #blog-post #silence
+archive tags:       #blog-post #silence
 tags:
         - silence
         - noise
