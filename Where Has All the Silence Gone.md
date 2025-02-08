@@ -2,10 +2,9 @@
 title:      # Where Has All the Silence Gone 
 UUID:      ›[[202501220509]] 
 date:     2025-01-22
-archive tags:       #blog-post #silence
-tags:
-        - silence
-        - noise
+tags:       
+      - blog-post
+      - silence
 description: Within silence, creativity and inner peace emerge.
 ---
 Silence doesn’t have to be standing at the rim of the Snake River Canyon in the warm afternoon sun; silence is as close as the moment between the in-breath and the out-breath. Our lives are drowning in internal and external noise without making room for silence.  
