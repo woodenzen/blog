@@ -2,7 +2,7 @@
 title:      When people get old 
 UUID:      ›[[202503230924]] 
 date:     2025-03-23
-archive_tags:       #proofing #blog-post #note 
+archive_tags:       #proofing #note 
 tags:       
       - blog-post
       - note
@@ -17,7 +17,7 @@ the past and they talk about all the things that happened that they
 did, theyʼve gotten old. If they think about their dreams, their
 aspirations, what theyʼre still looking forward to – theyʼre young.ˮ | Peter Attia, Outlive  
 
-This makes future optiomizum a measure of intelectual age. Physical age doesn't track in this way.     
+This makes future optimism a measure of intellectual age. Physical age doesn't track in this way.     
 
 
 ##### Link: [When people get old – A Learning a Day](https://alearningaday.blog/2025/03/22/when-people-get-old/)
