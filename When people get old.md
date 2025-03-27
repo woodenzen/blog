@@ -5,7 +5,7 @@ date:     2025-03-23
 archive_tags:       #note 
 tags:       
       - note
-description: 
+description: When the mind orients itself toward possibility rather than memory, it resists the inertia of aging.
 ---
 When people get old
 “I think people get old when they stop thinking about the future. If
@@ -25,7 +25,10 @@ This makes future optimism a measure of intellectual age. Physical age doesn't t
 ## Source: [When people get old – A Learning a Day](https://alearningaday.blog/2025/03/22/when-people-get-old/)
 
 ## See Also
-
+- Learn Less as You Get Older? [[202402011141]]
+     * Adopting the right mindset mitigates barriers to lifelong learning.- Vocation-Avocation Tension [[202310142026]]
+     * Balancing passion and profession can be challenging and create tension.- Outlive [[202310132013]]
+     * The science and art of longevity.
 
 
 

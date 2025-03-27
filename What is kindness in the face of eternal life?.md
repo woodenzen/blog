@@ -2,14 +2,15 @@
 title:      # What is kindness in the face of eternal life? 
 UUID:      ›[[202503250539]] 
 date:     2025-03-25
-archive_tags:       #proofing #blog-post #kindness #philosophy 
+archive_tags:       #blog-post #kindness #philosophy 
 tags:       
       - note
       - kindness
       - philosophy
-description: 
+description: Kindness, stretched across eternal time, becomes a force of cumulative transformation.
 ---
-My journal prompt this evening. "What is kindness in the face of eternal life?"
+This is one of my recent journaling prompts. "What is kindness in the face of eternal life?"  
+
 Kindness changes the trajectory of life. The receiver gets new opportunities, and the giver imprints the neuropathways of kindness, making it easier in the future. Extending life makes this even more critical because of the compounding effects of kindness. 
 
 Here, we are talking about positionality. Being kind puts you in a favorable position, and each successive kind event improves that position. Kindness also has a dose-response quality. Those early and frequent on the curve reach eudaimonia (flourishing life) sooner and with more potent results.  
