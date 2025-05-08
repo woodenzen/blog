@@ -1,7 +1,7 @@
 ---
 title:      Now
 UUID:      ›[[20250507]] 
-date:     2025-05-7
+date:     2025-05-07
 archive_tags:       #note 
 tags:       
       - note
