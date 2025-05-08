@@ -21,6 +21,7 @@ export default defineConfig({
       {
         url: "https://willsimpson.netlify.app/n/now",
         label: "Now",
+        icon: "clock",
       },
       {
         url: "https://github.com/woodenzen",
