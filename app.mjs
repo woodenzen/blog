@@ -24,11 +24,6 @@ export default defineConfig({
         icon: "github",
       },
       {
-        url: "https://https://willsimpson.netlify.app/n/now",
-        label: "Now",
-        icon: "github",
-      },
-      {
         url: "https://kestrelcreek.com",
         label: "My Other Blog",
         icon: "disc",
