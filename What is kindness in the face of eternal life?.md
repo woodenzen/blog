@@ -2,7 +2,7 @@
 title:      # What is kindness in the face of eternal life? 
 UUID:      ›[[202503250539]] 
 date:     2025-03-25
-archive_tags:       #blog-post #kindness #philosophy 
+archive_tags:       #blog-post #kindness #philosophy #best_of_2025 
 tags:       
       - note
       - kindness
