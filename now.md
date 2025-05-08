@@ -9,19 +9,20 @@ description: What I'm doing now.
 ---
 ## My Now Page
 Last Updated: 2025-05-08
-# What I’m Doing Now?
+# What I’m Doing Now.
 
-* I’m learning how to make better investments in general.
-* I am focused on getting back to writing regularly.
-* These days, I’m still trying to stick to my habits that I planned at the beginning of the year. 
+* I’m learning how to be more mindful.
+* I am focused on continuing to write regularly.
+* I'm embracing journaling.  
 
 #### FAMILY AND FRIENDS TIME
-I spend time with my wife, whom I love and who is empathetic, beautiful, intelligent, sensual, and loving—a fantastic human being.
-I also spend time with my friends, better called my selected family, as they are fantastic people.
+- I'm taking Mary to her first-ever massage by a professional. I'm hoping she loves it. 
+- Saturday will be my social day. Moscow Farmers Market, coffee with Rich.
 
 #### PROJECTS
 
 #### IN THE WOODSHOP
+I'm doing some finishing work. I'm applying a mission-style finish to a white oak mirror frame. I'm also assembling refrigerator frames, gluing in the magnets, and using a poly finish. I'm doing some spoonwork. What I need to work on is the mission-style coffee table.    
 
 #### TECH & TOOLS
 
@@ -31,6 +32,7 @@ I also spend time with my friends, better called my selected family, as they are
 - Phillips, Adam, and Barbara Taylor. On Kindness. 1. American ed, Farrar, Straus and Giroux, 2009.
 
 #### HEALTH & VISION
+My vision continues to deteriorate. 
 
 —
 Hat tip to Derek Sivers for the idea of [this “Now” page](￼). I’m not great at social media, but this page provides me with a way to check in with the world and update you, as Derek recommends, just as I would when catching up with an old friend.
