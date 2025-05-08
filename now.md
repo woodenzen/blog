@@ -26,6 +26,9 @@ I also spend time with my friends, better called my selected family, as they are
 #### TECH & TOOLS
 
 #### READING
+- Duhigg, Charles. Supercommunicators: How to Unlock the Secret Language of Connection. First large print edition, Random House Large Print, 2024.
+- Kaufman, Scott Barry, and Carolyn Gregoire. Wired to Create: Unraveling the Mysteries of the Creative Mind. First trade paperback edition, TarcherPerigree, 2016.
+- Phillips, Adam, and Barbara Taylor. On Kindness. 1. American ed, Farrar, Straus and Giroux, 2009.
 
 #### HEALTH & VISION
 
@@ -34,12 +37,3 @@ Hat tip to Derek Sivers for the idea of [this “Now” page](￼). I’m not g
 
 
 ----------------------------------
-<!--
-## Tags:
-
-
-## See Also
-
-
--->
-

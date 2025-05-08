@@ -19,7 +19,7 @@ export default defineConfig({
   sidebar: {
     links: [
       {
-        url: "https://https://willsimpson.netlify.app/n/now",
+        url: "https://willsimpson.netlify.app/n/now",
         label: "Now",
       },
       {
