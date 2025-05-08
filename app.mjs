@@ -19,13 +19,12 @@ export default defineConfig({
   sidebar: {
     links: [
       {
-        url: "https://github.com/woodenzen",
-        label: "GitHub",
-        icon: "github",
-      },
-      {
         url: "https://https://willsimpson.netlify.app/n/now",
         label: "Now",
+      },
+      {
+        url: "https://github.com/woodenzen",
+        label: "GitHub",
         icon: "github",
       },
       {
