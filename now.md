@@ -2,9 +2,8 @@
 title:      Now
 UUID:      ›[[20250507]] 
 date:     2025-05-07
-archive_tags:       #note 
+archive_tags:
 tags:       
-      - note
 description: What I'm doing now.
 ---
 ## My Now Page
@@ -35,7 +34,7 @@ I'm doing some finishing work. I'm applying a mission-style finish to a white oa
 My vision continues to deteriorate. 
 
 —
-Hat tip to Derek Sivers for the idea of [this “Now” page](￼). I’m not great at social media, but this page provides me with a way to check in with the world and update you, as Derek recommends, just as I would when catching up with an old friend.
+Hat tip to David Sparks for the idea for this “Now” page. I’m not great at social media, but this page provides a way to check in with the world and update you just as I would when catching up with an old friend.
 
 
 ----------------------------------
