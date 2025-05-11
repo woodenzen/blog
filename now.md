@@ -7,7 +7,7 @@ tags:
 description: What I'm doing now.
 ---
 ## My Now Page
-Last Updated: 2025-05-08
+Last Updated: 2025-05-11
 # What I’m Doing Now.
 
 * I’m learning how to be more mindful.
@@ -16,14 +16,15 @@ Last Updated: 2025-05-08
 
 #### FAMILY AND FRIENDS TIME
 - I'm taking Mary to her first-ever massage by a professional. I'm hoping she loves it. 
-- Saturday will be my social day. Moscow Farmers Market, coffee with Rich.
 
 #### PROJECTS
+
 
 #### IN THE WOODSHOP
 I'm doing some finishing work. I'm applying a mission-style finish to a white oak mirror frame. I'm also assembling refrigerator frames, gluing in the magnets, and using a poly finish. I'm doing some spoonwork. What I need to work on is the mission-style coffee table.    
 
 #### TECH & TOOLS
+
 
 #### READING
 - Duhigg, Charles. Supercommunicators: How to Unlock the Secret Language of Connection. First large print edition, Random House Large Print, 2024.
@@ -32,6 +33,7 @@ I'm doing some finishing work. I'm applying a mission-style finish to a white oa
 
 #### HEALTH & VISION
 My vision continues to deteriorate. 
+I've been concentrating on my step count, which varies quite a bit. In the last week, it has varied from 5,500 to 14,000 steps a day. 
 
 —
 Hat tip to David Sparks for the idea for this “Now” page. I’m not great at social media, but this page provides a way to check in with the world and update you just as I would when catching up with an old friend.
