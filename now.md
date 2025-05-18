@@ -7,7 +7,7 @@ tags:
 description: What I'm doing now.
 ---
 ## My Now Page
-Last Updated: 2025-05-11
+Last Updated: 2025-05-18
 # What I’m Doing Now.
 
 * I’m learning how to be more mindful.
@@ -15,25 +15,22 @@ Last Updated: 2025-05-11
 * I'm embracing journaling.  
 
 #### FAMILY AND FRIENDS TIME
-- I'm taking Mary to her first-ever massage by a professional. I'm hoping she loves it. 
-
-#### PROJECTS
-
-
+- Mary is starting speech therepy. We continue to look at moving into town.
+ 
 #### IN THE WOODSHOP
-I'm doing some finishing work. I'm applying a mission-style finish to a white oak mirror frame. I'm also assembling refrigerator frames, gluing in the magnets, and using a poly finish. I'm doing some spoonwork. What I need to work on is the mission-style coffee table.    
+I'm putting the finishing touchs on my latest box. I hand shaping the finial in the shape of a cloud.The Mission Frame is of the the glass shop to get its mirror installed. What I need to work on is the mission-style coffee table.    
 
 #### TECH & TOOLS
 
 
 #### READING
 - Duhigg, Charles. Supercommunicators: How to Unlock the Secret Language of Connection. First large print edition, Random House Large Print, 2024.
-- Kaufman, Scott Barry, and Carolyn Gregoire. Wired to Create: Unraveling the Mysteries of the Creative Mind. First trade paperback edition, TarcherPerigree, 2016.
+- Klein, Ezra and Derek Thompson. Abundance. 1st ed, Avid Reader Press, 2025.
 - Phillips, Adam, and Barbara Taylor. On Kindness. 1. American ed, Farrar, Straus and Giroux, 2009.
 
 #### HEALTH & VISION
 My vision continues to deteriorate. 
-I've been concentrating on my step count, which varies quite a bit. In the last week, it has varied from 5,500 to 14,000 steps a day. 
+I've been concentrating on my step count, which varies quite a bit. In the last week, I averaged 9657. 
 
 —
 Hat tip to David Sparks for the idea for this “Now” page. I’m not great at social media, but this page provides a way to check in with the world and update you just as I would when catching up with an old friend.
