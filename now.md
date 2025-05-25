@@ -7,7 +7,6 @@ tags:
       - note
 description: What I'm doing now.
 ---
-## My Now Page
 Last Updated: 2025-05-08
 # What I’m Doing Now?
 
@@ -32,7 +31,9 @@ I also spend time with my friends, better called my selected family, as they are
 
 #### HEALTH & VISION
 
-—
+
+
+----
 Hat tip to Derek Sivers for the idea of [this “Now” page](￼). I’m not great at social media, but this page provides me with a way to check in with the world and update you, as Derek recommends, just as I would when catching up with an old friend.
 
 

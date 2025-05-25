@@ -20,7 +20,7 @@ export default defineConfig({
     links: [
       {
         url: "https://willsimpson.netlify.app/n/now",
-        label: "Now",
+        label: "My Now Page",
         icon: "clock",
       },
       {
