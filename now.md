@@ -1,7 +1,7 @@
 ---
 title:      Now
 UUID:      ›[[20250507]] 
-date:     2025-05-07
+date:     2025-06-01
 archive_tags:
 tags:       
 description: What I'm doing now.
@@ -11,6 +11,7 @@ Last Updated: 2025-05-25
 # What I’m Doing Now.
 
 * I’m learning how to be more mindful.
+* I'm studying the life and philosopy of Socrates.
 * I am focused on continuing to write regularly.
 * I'm embracing journaling.
 * I'm practicing sketching.  
