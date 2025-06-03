@@ -7,19 +7,19 @@ tags:
 description: What I'm doing now.
 ---
 ## My Now Page
-Last Updated: 2025-05-25
+Last Updated: 2025.6.1
 # What I’m Doing Now.
 
 * I’m learning how to be more mindful.
-* I'm studying the life and philosopy of Socrates.
-* I am focused on continuing to write regularly.
+* I'm studying the life and philosophy of Socrates.
+* I am committed to maintaining a regular writing schedule.
 * I'm embracing journaling.
 * I'm practicing sketching.  
 
 #### FAMILY AND FRIENDS TIME
-- I'm encouraging Mary to eat with the goal of adding weight.
+- I'm encouraging Mary to eat to add weight.
 - I've connected with some old friends. 
-- We continue to look at moving into town.
+- We continue to consider moving into town.
  
 #### IN THE WOODSHOP
 - I'm continuing to put the finishing touches on my latest box. I'm hand-shaping the finial in the shape of a cloud. The Mission Frame is in the glass shop to get its mirror installed. What I need to work on is the mission-style coffee table.
@@ -27,8 +27,8 @@ Last Updated: 2025-05-25
 - Rakusu ring orders have come in and I ordered some Mesquite.  
 
 #### TECH & TOOLS
-- Worked on the accessability setting on iOS.
-- I'm looking at a new printer.
+- Worked on the accessibility settings on iOS.
+- I've been using various AI tools. The jury is still out on whether they're all beneficial. It's an ongoing experiment, and I'm enjoying it.
 
 #### READING
 - Duhigg, Charles. Supercommunicators: How to Unlock the Secret Language of Connection. First large print edition, Random House Large Print, 2024.
@@ -36,10 +36,10 @@ Last Updated: 2025-05-25
 
 #### HEALTH & VISION
 - My vision continues to deteriorate. 
-- I've been concentrating on my step count, which varies quite a bit. In the last week, I averaged 8,439.
-- Infamation in my low back caused pain and discomfort and I did a steroid bump. It has helped. 
+- I've been focusing on my step count, which varies significantly. In the last week, I averaged 8,439.
+- Inflammation in my low back caused pain and discomfort and I did a steroid bump. It has helped. 
 
 ----
-Hat tip to Derek Sivers for the idea of [this “Now” page](￼). I’m not great at social media, but this page provides me with a way to check in with the world and update you, as Derek recommends, just as I would when catching up with an old friend.
+Hat tip to David Sparks for the idea for [this “Now” page](https://www.macsparky.com/now/). I’m not great at social media, but this page provides me with a way to check in with the world and update you, as David recommends, just as I would when catching up with an old friend.
 
 ----------------------------------
