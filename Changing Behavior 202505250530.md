@@ -5,7 +5,7 @@ date:     2025-05-25
 archive_tags:       #proofing #blog-post #note 
 tags:       
       - blog-post
-description: 
+description: Expose the long-term consequences of our actions
 ---
 This resonated with me. I think the key is to find an experience that makes the long-term consequences of our actions feel tangible and immediate.
 

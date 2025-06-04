@@ -2,11 +2,11 @@
 title:      # Gifted Rain 
 UUID:      ›[[202505260703]] 
 date:     2025-05-26
-archive_tags:       #proofing #blog-post 
+archive_tags:   #blog-post #writing
 tags:       
       - blog-post
       - note
-description: 
+description: An example of a periodic sentence.
 ---
 
 This is an example of a periodic sentence. I'm working to develop this smooth, poetic writing style. It consists of a string of descriptors, followed by a climax. 
@@ -19,12 +19,9 @@ This is an example of a periodic sentence. I'm working to develop this smooth, p
 ----------------------------------
 
 <!--
-## Tags:
-
-## Source: 
-
 ## See Also
-
+- Build a Climax in One Sentence [[202505060624]]
+     * Withholding the main clause until the very end—after clauses, metaphors, and stylistic flourishes—a periodic sentence keeps the reader leaning forward, hungry for resolution.
 ## References
 
 -->
