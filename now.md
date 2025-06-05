@@ -1,7 +1,7 @@
 ---
 title:      Now
 UUID:      ›[[20250507]] 
-date:     2025-06-01
+date:     2025-01-01
 archive_tags:
 tags:       
 description: What I'm doing now.
