@@ -7,7 +7,7 @@ tags:
 description: What I'm doing now.
 ---
 ## My Now Page
-Last Updated: 2025.06.09
+Last Updated: 2025.06.15
 # What I’m Doing Now.
 
 * I'm writing two feature articles for the Inland 360, the local arts and entertainment weekly.
