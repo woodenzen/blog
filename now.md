@@ -32,7 +32,7 @@ Last Updated: 2025.06.15
 
 #### HEALTH & VISION
 - My vision continues to surprise me. What I can and what I can not see is a mystery to me.
-- I've been focusing on my step count. My step count is too low.
+- I've been focusing on my step count. 9,526 average steps per day this week. My step count is too low.
 - I've restarted my stretching routine, as exercise is the best medicine. 
 
 ----
