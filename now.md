@@ -7,27 +7,31 @@ tags:
 description: What I'm doing now.
 ---
 ## My Now Page
-Last Updated: 2025.06.23
+Last Updated: 2025.06.29
 # What I’m Doing Now.
 
-* I'm writing two feature articles for the Inland 360, the local arts and entertainment weekly. - One down and one to go.
-* I'm trying to adapt to the life of a caregiver.
+* I'm writing a feature article for the Inland 360, the local arts and entertainment weekly, on the Rendezvous in the Park. The second-to-last interview is on Monday.
+* We're getting excited about moving to Moscow.
 * I'm studying the life and philosophy of Socrates.
   
 
 #### FAMILY AND FRIENDS TIME 
-- We're considering a walkable condo in town as part of our relocation plans.
 - It's going to be hard to leave this place after 35 years. But I'm ready for the next chapter.
+- I miss philosophizing with Rich.
  
 #### IN THE WOODSHOP
-- I'm putting the finishing touches on my latest box. Before I finish the box, I have to glue in the bottom liner.
-- Next month will be dedicated to working in the shop, preparing for the Dahman Barn Show, which starts on August 2nd.
+- July will be dedicated to working in the shop, preparing for the Dahman Barn Show, which starts on August 2nd.
+- Projects include a custom table.
+
 #### Sketching
-- This month has been about sketching. 
+- June has been about sketching. 
 - I need to find an easy way to embed sketches here.
 
 #### TECH & TOOLS
-- I've been using various AI tools to brainstorm interview questions and as a Socratic conversation partner. The jury is still out on whether this is beneficial. It's an ongoing experiment that's helping me gain insights into my behavior, and I'm enjoying it.
+- I've been using various AI tools to explore philosophical questions, and I'm enjoying it.
+- I'm considering a new iPad Pro for sketching.
+- I've been setting up my tech devices for accessibility.
+- Bear software is a significant failure in the accessibility department.  
 
 #### READING
 - Duhigg, Charles. Supercommunicators: How to Unlock the Secret Language of Connection. First large print edition, Random House Large Print, 2024.
@@ -35,7 +39,7 @@ Last Updated: 2025.06.23
 
 #### HEALTH & VISION
 - My vision continues to surprise me. What I can and what I can not see is a mystery to me.
-- I've been focusing on my step count. 7,739 average steps per day this week. 
+- I've been focusing on my step count. 8,699 average steps per day this week. 
 - I've restarted my stretching routine, as exercise is the best medicine. 
 
 ----
