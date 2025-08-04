@@ -7,38 +7,34 @@ tags:
 description: What I'm doing now.
 ---
 ## My Now Page
-Last Updated: 2025.07.13
+Last Updated: 2025.08.03
 # What I’m Doing Now.
 
-* I'm writing a feature article for the Inland 360, the local arts and entertainment weekly, on the Rendezvous in the Park. It goes to press tomorrow.
-* We're getting nervous about moving to Moscow. It is coming soon, and we've not prepared.
-* I'm having small successes being less reactive to my impressions.
+* The woodshop is for sale. I'm in a life transition. I'm sad, but in a way, looking forward to refocusing my creative energy.
+* We're getting nervous about moving to Moscow. It is coming soon, but we haven't prepared.
+* Being less reactive to my impressions is still a work in progress.
   
-
 #### FAMILY AND FRIENDS TIME 
 - It's going to be hard to leave this place after 35 years. But I'm ready for the next chapter.
-- I miss philosophizing with Rich. He is off to Newfoundland for a fishing trip.
  
-#### IN THE WOODSHOP
-- It is challenging to transition from in-depth sketching to woodworking. All my "free" time is drawn to drawing.
-- Working with Stephenie on a wall shelf for the Dahman Barn Show.
-- I'm going to sell all my tools. This will be a challenge, but I'm ready for it.
-
+#### SKETCHING
+- Working on my urban sketching and a loose style of landscape sketching.
+- Practicing figure gesture drawing using nude yoga poses.
+  
 #### TECH & TOOLS
 - I've been using various AI tools to explore philosophical questions, and I'm enjoying it.
 - I'm considering a new iPad Pro for sketching.
-- With my eyesight, I'm exploring getting a new keyboard.
-- Actively using voice dictation.
-- Bear software is a significant failure in the accessibility department.  
+- The new logickeyboard is working out super. I can see the keys and it still responds to my touch typing.
 
 #### READING
 - Duhigg, Charles. Supercommunicators: How to Unlock the Secret Language of Connection. First large print edition, Random House Large Print, 2024.
-- Robertson, Donald. How to Think Like a Roman Emperor: The Stoic Philosophy of Marcus Aurelius. First edition, St. Martin’s Press, 2019.
+- Maclean, Norman. A River Runs through It. Edited by Barry Moser,  Univ. of Chicago Press, 1993.
+- Walter, Jess. So Far Gone. First edition, Harper, 2025.
 
 #### HEALTH & VISION
-- My vision continues to surprise me. What I can and what I can not see is a mystery to me.
-- I've been focusing on my step count. 6,280 average steps per day this week. 
-- I've restarted my stretching routine, as exercise is the best medicine. 
+- My vision will not improve, but in the last week my eye comfort suddenly got way better. Today it has relapsed. Why, I don't know?
+- I've been focusing on my step count—6,919 average steps per day this week. 
+- I've restarted my lifting and stretching routine, as exercise is the best medicine. 
 
 ----
 Hat tip to David Sparks for the idea for [this “Now” page](https://www.macsparky.com/now/). I’m not great at social media, but this page provides me with a way to check in with the world and update you, as David recommends, just as I would when catching up with an old friend.
