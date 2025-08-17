@@ -7,15 +7,16 @@ tags:
 description: What I'm doing now.
 ---
 ## My Now Page
-Last Updated: 2025.08.03
+Last Updated: 2025.08.17
 # What I’m Doing Now.
 
-* The woodshop is for sale. I'm in a life transition. I'm sad, but in a way, looking forward to refocusing my creative energy.
-* We're getting nervous about moving to Moscow. It is coming soon, but we haven't prepared.
+* The woodshop is for sale. I'm in a life transition. I'm sad, but in a way, I'm looking forward to refocusing my creative energy.
+* Non-dual awareness is on the radar. Weird to say it that way. 
 * Being less reactive to my impressions is still a work in progress.
   
 #### FAMILY AND FRIENDS TIME 
-- It's going to be hard to leave this place after 35 years. But I'm ready for the next chapter.
+- We had to evacuate because of a wildfire, and the support and care of our neighbors and friends gladdens me.
+- We learned that we need to pack a bugout bag and have a plan for an emergency evacuation. Fortunately, our evacuation was short. 
  
 #### SKETCHING
 - Working on my urban sketching and a loose style of landscape sketching.
@@ -24,16 +25,13 @@ Last Updated: 2025.08.03
 #### TECH & TOOLS
 - I've been using various AI tools to explore philosophical questions, and I'm enjoying it.
 - I'm considering a new iPad Pro for sketching.
-- The new logickeyboard is working out super. I can see the keys and it still responds to my touch typing.
+- Got new phone service and a new phone. It's a significant improvement.
 
 #### READING
-- Duhigg, Charles. Supercommunicators: How to Unlock the Secret Language of Connection. First large print edition, Random House Large Print, 2024.
-- Maclean, Norman. A River Runs through It. Edited by Barry Moser,  Univ. of Chicago Press, 1993.
-- Walter, Jess. So Far Gone. First edition, Harper, 2025.
+- Nisargadatta. I Am That: Talks with Sri Nisargadatta Maharaj. Edited by Sudhakar S. Dikshit, Translated by Maurice Frydman, 2nd American ed, Acorn Press, 2012.
 
 #### HEALTH & VISION
-- My vision will not improve, but in the last week my eye comfort suddenly got way better. Today it has relapsed. Why, I don't know?
-- I've been focusing on my step count—6,919 average steps per day this week. 
+- I've been focusing on my step count — 8,868 average steps per day this week. 
 - I've restarted my lifting and stretching routine, as exercise is the best medicine. 
 
 ----
