@@ -8,9 +8,6 @@ tags:
 description: Books I Read in 2025
 ---
 
-
-Books I Read in 2025
-
 	1.	Gregory, Danny. Everyday Matters: A New York Diary.    
 	2.	Yagisawa, Satoshi. Days at the Morisaki Bookshop.    
 	3.	Price, D. How to Make a Journal of Your Life.    
