@@ -2,7 +2,7 @@
 title:      # 	Emptying the Wrong Inbox
 UUID:      ›[[202506040537]] 
 date:     2025-06-04
-archive_tags:       #proofing #blog-post #mindset #productivity #inbox
+archive_tags:   #blog-post #mindset #productivity #inbox
 tags:       
       - blog-post
 description: Chasing productivity might inadvertently distance us from meaningful goals and values.

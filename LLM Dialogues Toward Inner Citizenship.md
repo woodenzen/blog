@@ -2,7 +2,7 @@
 title:      # LLM Dialogues Toward Inner Citizenship 
 UUID:      ›[[202507220619]] 
 date:     2025-07-22
-archive_tags:       #proofing #blog-post 
+archive_tags:        #blog-post 
 tags:       
       - blog-post
 description: Using an LLM as a Socratic partner and a Stoic mirror lets you probe assumptions, sort what’s in your control, and loosen the grip of “I,” yielding steadier navigation through modern overload.

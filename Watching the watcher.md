@@ -2,7 +2,7 @@
 title:      # Watching the watcher 
 UUID:      ›[[202507230700]] 
 date:     2025-07-23
-archive_tags:       #proofing #blog-post 
+archive_tags:       #blog-post 
 tags:       
       - blog-post
 description: 

@@ -2,7 +2,7 @@
 title:      Changing Behavior 
 UUID:      ›[[202505250530]] 
 date:     2025-05-25
-archive_tags:       #proofing #blog-post #note 
+archive_tags:       #blog-post #note 
 tags:       
       - blog-post
 description: Expose the long-term consequences of our actions
