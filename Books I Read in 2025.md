@@ -11,9 +11,9 @@ description: Books I Read in 2025
 
 Books I Read in 2025
 
-	1.	Gregory, Danny. Everyday Matters: A New York Diary.
-	2.	Yagisawa, Satoshi. Days at the Morisaki Bookshop.
-	3.	Price, D. How to Make a Journal of Your Life.
+	1.	Gregory, Danny. Everyday Matters: A New York Diary.  
+	2.	Yagisawa, Satoshi. Days at the Morisaki Bookshop.  
+	3.	Price, D. How to Make a Journal of Your Life.  
 	4.	Reilly, Winifred M. It Takes One to Tango: How I Improved My Marriage - with Absolutely No Help from My Husband* - and How You Can, Too (*Maybe Just a Little).
 	5.	Bergstrom, Carl T., and Jevin D. West. Calling Bullshit: The Art of Skepticism in a Data-Driven World
 	6.	Russell-Smith, Jen. The Joy of Sketch: A Beginner’s Guide to Sketching the Everyday.
