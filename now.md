@@ -7,40 +7,32 @@ tags:
 description: What I'm doing now.
 ---
 ## My Now Page
-Last Updated: 2025.07.13
+Last Updated: 2025.12.22
 # What I’m Doing Now.
-
-* I'm writing a feature article for the Inland 360, the local arts and entertainment weekly, on the Rendezvous in the Park. It goes to press tomorrow.
-* We're getting nervous about moving to Moscow. It is coming soon, and we've not prepared.
-* I'm having small successes being less reactive to my impressions.
-  
-
-#### FAMILY AND FRIENDS TIME 
-- It's going to be hard to leave this place after 35 years. But I'm ready for the next chapter.
-- I miss philosophizing with Rich. He is off to Newfoundland for a fishing trip.
+- Top of my mind is the upcoming school term, and how I'm going to approach it. Given Mary's health concerns, I don't think he I can take on much. This last term was harrowing with the responsibilities of being a caregiver and trying to keep up with work.
+ - I've been using the Palouse Woodworkers Collective to stay connected with the local woodworking community. It is a crowded space, but I have to work with what I have until I can set up my own shop.
  
-#### IN THE WOODSHOP
-- It is challenging to transition from in-depth sketching to woodworking. All my "free" time is drawn to drawing.
-- Working with Stephenie on a wall shelf for the Dahman Barn Show.
-- I'm going to sell all my tools. This will be a challenge, but I'm ready for it.
-
-#### TECH & TOOLS
-- I've been using various AI tools to explore philosophical questions, and I'm enjoying it.
-- I'm considering a new iPad Pro for sketching.
-- With my eyesight, I'm exploring getting a new keyboard.
-- Actively using voice dictation.
-- Bear software is a significant failure in the accessibility department.  
+#### SKETCHING
+  - Each week, I get reminded by filling out this Now page that I need to restart my sketching.
+  
+#### TECH TOOLS
+- Reconnecting with my peeps on the Zettelkasten Forum.
 
 #### READING
-- Duhigg, Charles. Supercommunicators: How to Unlock the Secret Language of Connection. First large print edition, Random House Large Print, 2024.
-- Robertson, Donald. How to Think Like a Roman Emperor: The Stoic Philosophy of Marcus Aurelius. First edition, St. Martin’s Press, 2019.
+- Duke, Annie. Thinking in Bets: Making Smarter Decisions When You Don’t Have All the Facts. Portfolio/Penguin, 2018. Library of Congress ISBN 978-0-7352-1635-8.
+- Kundera, Milan, and Michael Henry Heim. The unbearable lightness of being. Harper Collins Publishers, 1999. Open WorldCat.
 
 #### HEALTH & VISION
-- My vision continues to surprise me. What I can and what I can not see is a mystery to me.
-- I've been focusing on my step count. 6,280 average steps per day this week. 
-- I've restarted my stretching routine, as exercise is the best medicine. 
+- I've been focusing on my step count — 8,790 average steps per day this week, which is up from last week. This is something I want to focus on and keep up. This will mean I will be walking without Zivon and Mary, taking the bus downtown and walking back. 
+- Why can't I seem to establish a lifting and stretching routine, as exercise is the best medicine? 
+- I am becoming a caregiver to my wife, who has Parkinson's.
 
-----
+#### Woodworking
+- Challenges with time have conspired against me. Having to find a place for all the "stuff" in the garage has challenged me. This week, I should find out where I can put stuff to start the process of organizing the garage for it's conversion to a workshop.
+
+---
 Hat tip to David Sparks for the idea for [this “Now” page](https://www.macsparky.com/now/). I’m not great at social media, but this page provides me with a way to check in with the world and update you, as David recommends, just as I would when catching up with an old friend.
 
-----------------------------------
+
+
+
