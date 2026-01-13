@@ -23,13 +23,13 @@ Last Updated: 2026.01.11
 #### HEALTH & VISION
 - I've been focusing on my step count — 9,971 average steps per day this week, which is way up from last week. This is something I want to focus on and keep up. This will mean I will be walking without Zivon and Mary, taking the bus downtown and walking back. 
 - Why can't I seem to establish a lifting and stretching routine? I haveto remember that exercise is the best medicine.
-- I am becoming a caregiver to my wife, who has Parkinson's and the begins of dementia.
+- I am becoming a caregiver to my wife, who has Parkinson's and the beginning of dementia.
 
-#### Woodworking
-- Challenges with time have conspired against me. Having to find a place for all the "stuff" in the garage has been a challenge. This week, I should find out where I can put the stuff to start the process of organizing the garage for its conversion to a workshop.
+#### WOODWORKING
+- Challenges with time have conspired against me. Finding a place for all the "stuff" in the garage has been a challenge. This week, I should find out where I can put the stuff to start organizing the garage for its conversion to a workshop.
 
 ---
-Hat tip to David Sparks for the idea for [this “Now” page](https://www.macsparky.com/now/). I’m not great at social media, but this page provides me with a way to check in with the world and update you, as David recommends, just as I would when catching up with an old friend.
+Hat tip to David Sparks for the idea for [this “Now” page](https://www.macsparky.com/now/). I’m not great at social media, but this page lets me check in with the world and update you, as David recommends, just as I would when catching up with an old friend.
 
 
 
