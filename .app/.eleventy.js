@@ -9,6 +9,7 @@ import { tocModule } from "./lib/modules/toc/index.js";
 import { wikilinksModule } from "./lib/modules/wikilinks/index.js";
 import { assetsModule } from "./lib/modules/assets/index.js";
 import { translationModule } from "./lib/modules/translation/index.js";
+import { rssModule } from "./lib/modules/rss/index.js";
 import { core } from "./lib/core/index.js";
 
 export const config = core.configObj;
@@ -25,6 +26,7 @@ export default async function (eleventyConfig) {
   wikilinksModule.setup(eleventyConfig);
   assetsModule.setup(eleventyConfig);
   await translationModule.setup(eleventyConfig);
+  rssModule.setup(eleventyConfig);
   core.setup(eleventyConfig);
   // Add passthrough copy for the CSS directory
   eleventyConfig.addPassthroughCopy(".app/css");

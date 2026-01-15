@@ -4,6 +4,9 @@ import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
+// Support both standalone and Eleventy module usage
+const isEleventyMode = process.argv.includes('eleventy');
+
 // Parse frontmatter from markdown files
 function parseFrontmatter(content) {
   const frontmatterRegex = /^---\n([\s\S]*?)\n---/;
