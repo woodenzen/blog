@@ -15,11 +15,12 @@ What does the mindful presence of inactivity look like in cooking? In preparing 
 
 All this is done before the actual cooking, which involves inactivity. Stiring,	sauteing, boiling, roasting, baking, grilling, resting, and raising are turms for the many forms of inactivity. 
 
-Being intentional in the act of inactivity has the potential to nudge flavors and aromas into existence. Attention to inactivity and letting what happens unfold during cooking is a metaphor for life. 
+Being intentional in the act of inactivity can nudge flavors and aromas into existence. Attention to inactivity and to letting what happens unfold during cooking are metaphors for life. 
 
 
 ##### Link: 
-[The Cooking Revolution](https://willsimpson.netlify.app/n/the-cooking-revolution/)
+- [The Cooking Revolution](https://willsimpson.netlify.app/n/the-cooking-revolution/)
+
 ----------------------------------
 <!--
 ## Source: 
