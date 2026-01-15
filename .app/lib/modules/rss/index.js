@@ -55,8 +55,7 @@ export const rssModule = {
         .replace(/\s+/g, ' ') // Collapse multiple spaces
         .trim();
       
-      // Limit to 300 characters
-      return text.length > 300 ? text.substring(0, 300) + '...' : text;
+      return text;
     });
 
     // Add a filter to escape XML
