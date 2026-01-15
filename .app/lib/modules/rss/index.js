@@ -33,12 +33,30 @@ export const rssModule = {
       return isNaN(dateObj) ? new Date().toUTCString() : dateObj.toUTCString();
     });
 
-    // Add a filter to extract text from markdown
-    eleventyConfig.addFilter('stripMarkdown', (content) => {
-      return content
-        .replace(/[#*_\[\]`]/g, '')
-        .trim()
-        .substring(0, 200) + (content.length > 200 ? '...' : '');
+    // Add a filter to strip HTML and extract plain text
+    eleventyConfig.addFilter('stripHtml', (content) => {
+      if (!content) return '';
+      
+      // Remove HTML tags
+      let text = content.replace(/<[^>]*>/g, '');
+      
+      // Decode HTML entities
+      text = text
+        .replace(/&amp;/g, '&')
+        .replace(/&lt;/g, '<')
+        .replace(/&gt;/g, '>')
+        .replace(/&quot;/g, '"')
+        .replace(/&#39;/g, "'")
+        .replace(/&apos;/g, "'");
+      
+      // Clean up whitespace
+      text = text
+        .replace(/\n\s*\n/g, '\n') // Remove multiple blank lines
+        .replace(/\s+/g, ' ') // Collapse multiple spaces
+        .trim();
+      
+      // Limit to 300 characters
+      return text.length > 300 ? text.substring(0, 300) + '...' : text;
     });
 
     // Add a filter to escape XML
