@@ -1,7 +1,6 @@
 ---
 title:      Now
 UUID:      ›[[202509081917]] 
-cdate:     09-08-2025 07:17 PM
 date:     2025-01-01
 archive_tags:
 tags:       

@@ -1,3 +1,4 @@
+
 ---
 title:      # Mindfulness and Inactivity Enhances Cooking 
 UUID:      ›[[202501090607]] 
@@ -6,7 +7,7 @@ archive_tags:  #blog-post #cooking #food
 tags:       
       - cooking
       - food
-description: Inactivity nudges flavors and textures into existence.
+description: 
 ---
 
 The hidden wealth of inactivity is often overlooked, but it’s crucial for creativity and mindfulness. Inactivity, often seen as mere idleness, is actually the fertile ground from which creative ideas sprout, offering a necessary pause for reflection and innovation. Inactivity is also a synonym for mindfulness. Both are empty of self and available in the midst of activity.
@@ -19,7 +20,7 @@ Being intentional in the act of inactivity has the potential to nudge flavors an
 
 
 ##### Link: 
-[The Cooking Revolution](https://willsimpson.netlify.app/n/the-cooking-revolution/)
+
 ----------------------------------
 <!--
 ## Source: 
