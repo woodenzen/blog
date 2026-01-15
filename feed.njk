@@ -18,7 +18,7 @@ layout: false
       <link>https://willsimpson.netlify.app/n/{{ post.fileSlug }}</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/{{ post.fileSlug }}</guid>
       <pubDate>{{ post.data.cdate | rssDate }}</pubDate>
-      <description>{{ post.content | stripHtml | escapeXml }}</description>
+      <description><![CDATA[{{ post.content | cleanHtml }}]]></description>
     </item>
     {%- endfor %}
   </channel>

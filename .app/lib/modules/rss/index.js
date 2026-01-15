@@ -33,15 +33,24 @@ export const rssModule = {
       return isNaN(dateObj) ? new Date().toUTCString() : dateObj.toUTCString();
     });
 
-    // Add a filter to strip HTML and extract plain text
-    eleventyConfig.addFilter('stripHtml', (content) => {
+    // Add a filter to clean HTML but preserve formatting
+    eleventyConfig.addFilter('cleanHtml', (content) => {
       if (!content) return '';
       
-      // Remove HTML tags
-      let text = content.replace(/<[^>]*>/g, '');
+      // Remove script and style tags entirely
+      let html = content.replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, '');
+      html = html.replace(/<style\b[^<]*(?:(?!<\/style>)<[^<]*)*<\/style>/gi, '');
+      
+      // Remove data attributes and event handlers
+      html = html.replace(/\s+on\w+\s*=\s*["'][^"']*["']/gi, '');
+      html = html.replace(/\s+data-\w+\s*=\s*["'][^"']*["']/gi, '');
+      
+      // Remove anchor-link elements and their content
+      html = html.replace(/<svg[^>]*>[\s\S]*?<\/svg>/gi, '');
+      html = html.replace(/<a class="anchor-link"[^>]*>[\s\S]*?<\/a>/gi, '');
       
       // Decode HTML entities
-      text = text
+      html = html
         .replace(/&amp;/g, '&')
         .replace(/&lt;/g, '<')
         .replace(/&gt;/g, '>')
@@ -49,13 +58,12 @@ export const rssModule = {
         .replace(/&#39;/g, "'")
         .replace(/&apos;/g, "'");
       
-      // Clean up whitespace
-      text = text
-        .replace(/\n\s*\n/g, '\n') // Remove multiple blank lines
-        .replace(/\s+/g, ' ') // Collapse multiple spaces
-        .trim();
+      // Clean up excessive whitespace while preserving structure
+      html = html
+        .replace(/\n\s*\n+/g, '\n\n') // Multiple blank lines to double
+        .replace(/>\s+</g, '><'); // Remove whitespace between tags
       
-      return text;
+      return html.trim();
     });
 
     // Add a filter to escape XML
