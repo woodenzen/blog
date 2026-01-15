@@ -23,6 +23,7 @@ In a world that is all about productivity, multitasking, and constant motion, co
 
 
 ##### Link: 
+- [Mindfulness and Inactivity Enhances Cooking](https://willsimpson.netlify.app/n/mindfulness-and-inactivity-enhances-cooking/)
 
 ----------------------------------
 <!--
