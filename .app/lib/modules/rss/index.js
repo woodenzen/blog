@@ -37,8 +37,10 @@ export const rssModule = {
     eleventyConfig.addFilter('cleanHtml', (content) => {
       if (!content) return '';
       
+      let html = content;
+      
       // Remove script and style tags entirely
-      let html = content.replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, '');
+      html = html.replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, '');
       html = html.replace(/<style\b[^<]*(?:(?!<\/style>)<[^<]*)*<\/style>/gi, '');
       
       // Remove data attributes and event handlers
@@ -49,14 +51,8 @@ export const rssModule = {
       html = html.replace(/<svg[^>]*>[\s\S]*?<\/svg>/gi, '');
       html = html.replace(/<a class="anchor-link"[^>]*>[\s\S]*?<\/a>/gi, '');
       
-      // Decode HTML entities
-      html = html
-        .replace(/&amp;/g, '&')
-        .replace(/&lt;/g, '<')
-        .replace(/&gt;/g, '>')
-        .replace(/&quot;/g, '"')
-        .replace(/&#39;/g, "'")
-        .replace(/&apos;/g, "'");
+      // DO NOT decode HTML entities - CDATA will preserve them correctly
+      // Keeping entities escaped ensures proper display in RSS readers
       
       // Clean up excessive whitespace while preserving structure
       html = html

@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Will Simpson's Notes</title>
     <link>https://willsimpson.netlify.app</link>
     <description>A simple, lightweight, and flexible note-taking template for Eleventy.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jan 2026 00:54:53 GMT</lastBuildDate>
-    <atom:link href="https://willsimpson.netlify.app/feed.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom" />
+    <lastBuildDate>Thu, 15 Jan 2026 01:56:25 GMT</lastBuildDate>
+    <atom:link href="https://willsimpson.netlify.app/feed.xml" rel="self" type="application/rss+xml" />
 
     <item>
       <title># The Cooking Revolution</title>
       <link>https://willsimpson.netlify.app/n/the-cooking-revolution</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/the-cooking-revolution</guid>
       <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
-      <description>When a recipe tells you to ‘let it cool before frosting,’ it’s not just about the cake. It’s about not reacting too fast.  It&apos;s a reminder to pause, to trust the timing, to let your presence flavor th...</description>
+      <description><![CDATA[<p>When a recipe tells you to ‘let it cool before frosting,’ it’s not just about the cake. It’s about not reacting too fast.  It's a reminder to pause, to trust the timing, to let your presence flavor the process.</p>
+<p>When a recipe tells you to "add the remaining ingredients and simmer for 15 minutes," it's not just about the soup. It's about not rushing, not trying to force the outcome, but allowing time to consider the possibilities. Presence, not pressure, is what makes it work.</p>
+<p>The way you cook becomes the way you care. Following the recipe's hints to be present, undistracted, and patiently waiting for the process to unfold. It’s the way you stay close to the stove like you’re guarding something sacred instead of checking your phone. This is what makes cooking a form of meditation and a way to connect through food.</p>
+<p>In Ratatouille, there’s a moment when Remy closes his eyes, sniffs the ingredients, and begins to imagine how flavors will collide. The humans around Remy are often too busy, too rigid, too stuck in old routines to really taste what they’re doing. He’s the only one who slows down, pays attention, and creates with care. The irony is that the rat is the most human one in the kitchen. Because he’s the only one who’s present, that’s mindful cooking.</p>
+<p>Perfection isn't in the recipe, but in the way you, as a cook, stay engaged from start to finish. What makes this matter is that it is an extension of the cook. You can taste the difference between food thrown together and food cared for.</p>
+<p>The doorway to mindful cooking is found through these moments of stillness, of waiting, of being present when you let the cake cool before frosting it or stand guard while the soup simmers. This is when the flavor develops. This isn't idle time—it's the time when you are most in touch with the process, the ingredients, and the act of cooking itself. Letting a cake cool. Letting the soup simmer. From the outside, it looks like inactivity, but it is actually the most active, most intentional, and most meaningful part. You don't always look busy.</p>
+<p>In a world that is all about productivity, multitasking, and constant motion, cooking is a reminder that a quiet presence is all that is needed to be labeled a rebel and a revolutionary. You can't frost a warm cake, and you can't rush a soup. Cooking demands that you slow down, be quiet, and listen to the heat, the smell, the silence. The best meals come from people who know when to stop doing and start noticing. That’s what makes it more than just food.</p>
+<p>
+##### Link: 
+<ul><li><a href="https://willsimpson.netlify.app/n/mindfulness-and-inactivity-enhances-cooking/">Mindfulness and Inactivity Enhances Cooking</a></li></ul></p>
+<p>----------------------------------
+<!--
+<h2>See Also</h2></p>
+<p>
+--></p>]]></description>
     </item>
 
     <item>
@@ -21,10 +35,43 @@
       <link>https://willsimpson.netlify.app/n/books-i-read-in-2025</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/books-i-read-in-2025</guid>
       <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
-      <description>1.	Gregory, Danny. Everyday Matters: A New York Diary.    
+      <description><![CDATA[<p>1.	Gregory, Danny. Everyday Matters: A New York Diary.    
 	2.	Yagisawa, Satoshi. Days at the Morisaki Bookshop.    
 	3.	Price, D. How to Make a Journal of Your Life.    
-	4.	Reilly, Winifred M. It Ta...</description>
+	4.	Reilly, Winifred M. It Takes One to Tango: How I Improved My Marriage - with Absolutely No Help from My Husband<em> - and How You Can, Too (</em>Maybe Just a Little).    
+	5.	Bergstrom, Carl T., and Jevin D. West. Calling Bullshit: The Art of Skepticism in a Data-Driven World.   
+	6.	Russell-Smith, Jen. The Joy of Sketch: A Beginner’s Guide to Sketching the Everyday.    
+	7.	Schumacher, Julie. Dear Committee Members.    
+	8.	Wind, Sand and Stars by Antoine de Saint-Exupéry  
+	9.	Callard, Agnes. Open Socrates: The Case for a Philosophical Life. .  
+	10.	Rohrer, Matthew. Surrounded by Friends.  
+	11.	Cohen, Rhaina. The Other Significant Others: Reimagining Life with Friendship at the Center.  
+	12.	Duffy, Chris. Let’s Hang Out.  
+	13.	Brown, Kimberly, and David Michie. Happy Relationships: 25 Buddhist Practices to Transform Your Connections with Your Partner, Family, and Friends.  
+	14.	Kaufman, Scott Barry, and Carolyn Gregoire. Wired to Create: Unraveling the Mysteries of the Creative Mind.  
+	15.	Bailey, Elisabeth Tova. The Sound of a Wild Snail Eating.  
+	16.	Phillips, Adam, and Barbara Taylor. On Kindness.  
+	17.	Klein, Ezra. Abundance.  
+	18.	Robertson, Donald. How to Think Like Socrates: Ancient Philosophy as a Way of Life in the Modern World.  
+	19.	Robertson, Donald. How to Think Like a Roman Emperor: The Stoic Philosophy of Marcus Aurelius.  
+	20.	Cather, Willa. Willa Cather: Four Great Novels, Pioneers!, One of Ours, The Song of the Lark, My Ántonia.  
+	21.	Maclean, Norman. A River Runs through It.  
+	22.	Walter, Jess. So Far Gone.  
+	23.	Johnson, Denis. Train Dreams: A Novella.  
+	24.	Woodlief, Tony. The Channel  
+	25.	Breath, James Nestor.  
+	26.	Haig, Matt. The Humans.  
+	27.	Proulx, Annie. Brokeback Mountain: Story to Screenplay.  
+	28.	Wilkins, Joe. Fall Back Down When I Die.  
+	29.	Kundera, Milan, and Michael Henry Heim. The unbearable lightness of being.  
+	30.	Duras, Marguerite, and Barbara Bray. The Lover.  
+  
+----------------------------------
+<!--
+<h2>See Also</h2>
+<ul><li>Bookography 2025 [[202501010627]]</li></ul></p>
+<p>
+--></p>]]></description>
     </item>
 
     <item>
@@ -32,7 +79,20 @@
       <link>https://willsimpson.netlify.app/n/watching-the-watcher</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/watching-the-watcher</guid>
       <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
-      <description>Switching between the embodied stream of consciousness and the felt sense of being the universe perceiving itself helps notice how the word “I” moves between the observer, the body, and the larger fie...</description>
+      <description><![CDATA[<p>Switching between the embodied stream of consciousness and the felt sense of being the universe perceiving itself helps notice how the word “I” moves between the observer, the body, and the larger field of the universe.</p>
+<p>"Watch the watching", so the ordinary "I" loosens into a process rather than a fixed owner.</p>
+<p>Merely a whirl in the universe's field of consciousness.</p>
+<p>How does the universe look when “I” is treated as a verb (“I-ing”) rather than a noun?
+<ul><li>Language habits freeze verbs into things, making processes appear as entities.</li></ul>
+<li>Re-verbalizing can melt the freeze, letting experience feel spacious and participatory.</li></p>
+<p>
+##### Link: 
+<a href="https://seanvoisen.com/blog/socratic-dialectics-with-ai/">Socratic dialectics with AI | Sean Voisen</a>
+----------------------------------
+<!--
+<h2>See Also</h2></p>
+<p>
+--></p>]]></description>
     </item>
 
     <item>
@@ -40,7 +100,17 @@
       <link>https://willsimpson.netlify.app/n/llm-dialogues-toward-inner-citizenship</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/llm-dialogues-toward-inner-citizenship</guid>
       <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
-      <description>By combining Socratic self-examination, Stoic value-clarity, and AI-assisted perspective shifting, we can see that modern complexity is best met with disciplined curiosity and a flexible sense of self...</description>
+      <description><![CDATA[<p>By combining Socratic self-examination, Stoic value-clarity, and AI-assisted perspective shifting, we can see that modern complexity is best met with disciplined curiosity and a flexible sense of self.</p>
+<p>Using an LLM as a Socratic partner to probe assumptions, sort what’s in your control, and loosen the grip of “I,” yields steadier navigation through modern overload. In a prompt-response loop pose a worry to the model; have it ask clarifying “What do you mean?” and “How do you know?” questions until hidden premises surface.</p>
+<p>Ask follow-up questions and text my thinking. Create a back-and-forth dialogue that explores the themes of the topic in question, whether it is a simple Q&A, a potentially deep philosophical conversation, or the outline of an article. </p>
+<p>A technique for exploring the positionality of "I" as exposed by Alan Watts and William James.</p>
+<p>##### Link: 
+<a href="https://seanvoisen.com/blog/socratic-dialectics-with-ai/">Socratic dialectics with AI | Sean Voisen</a></p>
+<p>----------------------------------
+<!--
+<h2>See Also</h2></p>
+<p>
+--></p>]]></description>
     </item>
 
     <item>
@@ -48,7 +118,16 @@
       <link>https://willsimpson.netlify.app/n/the-inbox-mindset</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/the-inbox-mindset</guid>
       <pubDate>Wed, 04 Jun 2025 00:00:00 GMT</pubDate>
-      <description>Am I focusing on the wrong inbox? Remember to stop and ask this from time to time. The inbox is not just a list of tasks, but a reflection of our values and priorities. Am I working with my values or ...</description>
+      <description><![CDATA[<p>Am I focusing on the wrong inbox? Remember to stop and ask this from time to time. The inbox is not just a list of tasks, but a reflection of our values and priorities. Am I working with my values or against them? Am I letting the productivity algorithm mindset distract me from what truly matters?</p>
+<p>> Which inbox?
+> It’s easier than ever to fall into an inbox mindset. There are things to do, and we do them.
+> Inbox zero is the unattainable goal that fills our days.
+> But it avoids the real question, which is: which inbox are we emptying?</p>
+<p>##### Link: <a href="https://seths.blog/2025/06/which-inbox/">Which inbox? | Seth's Blog</a></p>
+<p>----------------------------------
+<!--
+<h2>See Also</h2></p>
+<p>--></p>]]></description>
     </item>
 
     <item>
@@ -56,9 +135,17 @@
       <link>https://willsimpson.netlify.app/n/gifted-rain</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/gifted-rain</guid>
       <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
-      <description>This is an example of a periodic sentence. I&apos;m working to develop this smooth, poetic writing style. It consists of a string of descriptors, followed by a climax. 
-
-&gt; The rains came back at the start ...</description>
+      <description><![CDATA[<p>This is an example of a periodic sentence. I'm working to develop this smooth, poetic writing style. It consists of a string of descriptors, followed by a climax. </p>
+<p>> The rains came back at the start of November, and they meant business—easy, hard, straight, slanting, pouring, splashing, drizzling, mizzling, easing off then starting again with a new light tap dance on the roof. The fronts rolled in off the Pacific like waves on the beach, drenching the Coast Range and Willamette Valley and dumping snow on the Cascades if the front was cold enough. Rain soaked into the ground and swelled the streams, filled the roadside ditches, and even the little, peace-loving Long Tom River rose up fast and brown and went over its banks three times, flooding a few houses on the flats and making a lake on the lowest stretch of Stamper Road.</p>
+<p>
+##### Link: <a href="https://readwise.io/review/will693/bcdadb45-10b7-4078-be73-8355b1ce0dfe?highlight=665859337&from=3">Gifted by John Daniel</a></p>
+<p>----------------------------------</p>
+<p><!--
+<h2>See Also</h2>
+<ul><li>Build a Climax in One Sentence [[202505060624]]</li></ul>
+     * Withholding the main clause until the very end—after clauses, metaphors, and stylistic flourishes—a periodic sentence keeps the reader leaning forward, hungry for resolution.
+<h2>References</h2></p>
+<p>--></p>]]></description>
     </item>
 
     <item>
@@ -66,9 +153,19 @@
       <link>https://willsimpson.netlify.app/n/changing-behavior-202505250530</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/changing-behavior-202505250530</guid>
       <pubDate>Sun, 25 May 2025 00:00:00 GMT</pubDate>
-      <description>This resonated with me. I think the key is to find an experience that makes the long-term consequences of our actions feel tangible and immediate.
-
-&gt; That’s the thing about learning – it usually happe...</description>
+      <description><![CDATA[<p>This resonated with me. I think the key is to find an experience that makes the long-term consequences of our actions feel tangible and immediate.</p>
+<p>> That’s the thing about learning – it usually happens when seeing the long-term consequences of our actions shocks or surprises enough to change our behavior.</p>
+<p>> So, if we’re having difficulty changing our behavior, it might be worth asking – what is an experience that would help us see or experience the long-term consequences of our current path?</p>
+<p>##### Link: 
+<a href="https://alearningaday.blog/2025/05/24/seeing-the-long-term-consequences/">Seeing the long-term consequences – A Learning a Day</a>
+----------------------------------
+<!--
+<h2>Tags:</h2></p>
+<h2>Source: </h2>
+<h2>See Also</h2>
+<p></p>
+<h2>References</h2>
+<p>--></p>]]></description>
     </item>
 
     <item>
@@ -76,9 +173,20 @@
       <link>https://willsimpson.netlify.app/n/what-is-kindness-in-the-face-of-eternal-life?</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/what-is-kindness-in-the-face-of-eternal-life?</guid>
       <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
-      <description>This is one of my recent journaling prompts. &quot;What is kindness in the face of eternal life?&quot;  
-
-Kindness changes the trajectory of life. The receiver gets new opportunities, and the giver imprints the...</description>
+      <description><![CDATA[<p>This is one of my recent journaling prompts. "What is kindness in the face of eternal life?"  </p>
+<p>Kindness changes the trajectory of life. The receiver gets new opportunities, and the giver imprints the neuropathways of kindness, making it easier in the future. Extending life makes this even more critical because of the compounding effects of kindness. </p>
+<p>Here, we are talking about positionality. Being kind puts you in a favorable position, and each successive kind event improves that position. Kindness also has a dose-response quality. Those early and frequent on the curve reach eudaimonia (flourishing life) sooner and with more potent results.  </p>
+<p>This note is the aftermath of a failed Socratic dialogue with my friend Rich. He offered this refutation of my idea, and rather than address it, I devolved into straw-manning and defensive ego-thumping. An evening meditation brought the idea into clearer light. </p>
+<p>----------------------------------
+<!--
+<h2>Tags:</h2></p>
+<h2>Source: </h2>
+<ul><li>DTR March 24, 2025 — Monk at Bedtime</li></ul>
+<li>bear://x-callback-url/open-note?id=B1DC908F-A541-4B8B-B533-DF101456DF4C</li>
+<h2>See Also</h2>
+The Power of Strategic Positioning [[202503090733]]
+<li>Your position today determines your possibilities tomorrow.</li>
+<p>--></p>]]></description>
     </item>
 
     <item>
@@ -86,10 +194,25 @@ Kindness changes the trajectory of life. The receiver gets new opportunities, an
       <link>https://willsimpson.netlify.app/n/when-people-get-old</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/when-people-get-old</guid>
       <pubDate>Sun, 23 Mar 2025 00:00:00 GMT</pubDate>
-      <description>When people get old
+      <description><![CDATA[<p>When people get old
 “I think people get old when they stop thinking about the future. If
 you want to find someoneʼs true age, listen to them. If they talk about
-the past and they talk about all the th...</description>
+the past and they talk about all the things that happened that they
+did, theyʼve gotten old. If they think about their dreams, their
+aspirations, what theyʼre still looking forward to – theyʼre young.ˮ | Peter Attia, Outlive  </p>
+<p>This makes future optimism a measure of intellectual age. Physical age doesn't track in this way.     </p>
+<p>##### Link: <a href="https://alearningaday.blog/2025/03/22/when-people-get-old/">When people get old – A Learning a Day</a></p>
+<p>----------------------------------
+<!--
+<h2>Tags:</h2></p>
+<h2>Source: <a href="https://alearningaday.blog/2025/03/22/when-people-get-old/">When people get old – A Learning a Day</a></h2>
+<h2>See Also</h2>
+<ul><li>Learn Less as You Get Older? [[202402011141]]</li></ul>
+     * Adopting the right mindset mitigates barriers to lifelong learning.<li>Vocation-Avocation Tension [[202310142026]]</li>
+     * Balancing passion and profession can be challenging and create tension.<li>Outlive [[202310132013]]</li>
+     * The science and art of longevity.
+<p></p>
+<p>--></p>]]></description>
     </item>
 
     <item>
@@ -97,11 +220,21 @@ the past and they talk about all the th...</description>
       <link>https://willsimpson.netlify.app/n/nobody-tells-beginners</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/nobody-tells-beginners</guid>
       <pubDate>Sat, 08 Feb 2025 00:00:00 GMT</pubDate>
-      <description>There are lots of things not told to novices. This is one of the most valuable. 
-
-This keeps me humble.
-
-&gt; Nobody tells this to people who are beginners, I wish someone told me. All of us who do creat...</description>
+      <description><![CDATA[<p>There are lots of things not told to novices. This is one of the most valuable. </p>
+<p>This keeps me humble.</p>
+<p>> Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this phase, they quit. Most people I know who do interesting, creative work went through years of this. We know our work doesn’t have this special thing that we want it to have. We all go through this. And if you are just starting out or you are still in this phase, you gotta know its normal and the most important thing you can do is do a lot of work. Put yourself on a deadline so that every week you will finish one story. It is only by going through a volume of work that you will close that gap, and your work will be as good as your ambitions. And I took longer to figure out how to do this than anyone I’ve ever met. It’s gonna take awhile. It’s normal to take a while. You’ve just gotta fight your way through. - Ira Glass</p>
+<p></p>
+<p>##### Link: https://vimeo.com/85040589</p>
+<p>----------------------------------
+<!--
+<h2>Tags:</h2></p>
+<h2>Source: </h2>
+<h2>See Also</h2>
+<ul><li>As A Beginner [[202010270907]]</li></ul>
+<li>Creative Work - Ira Glass [[201902141904]]</li>
+<p></p>
+<h2>References</h2>
+<p>--></p>]]></description>
     </item>
 
     <item>
@@ -109,7 +242,22 @@ This keeps me humble.
       <link>https://willsimpson.netlify.app/n/where-has-all-the-silence-gone</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/where-has-all-the-silence-gone</guid>
       <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
-      <description>Silence doesn’t have to be standing at the rim of the Snake River Canyon in the warm afternoon sun; silence is as close as the moment between the in-breath and the out-breath. Our lives are drowning i...</description>
+      <description><![CDATA[<p>Silence doesn’t have to be standing at the rim of the Snake River Canyon in the warm afternoon sun; silence is as close as the moment between the in-breath and the out-breath. Our lives are drowning in internal and external noise without making room for silence.  </p>
+<p>Entire days can pass without a single moment of silence.</p>
+<p>The mind constantly runs a play-by-play on our fears and desires like a 24-hour newscast that refuses to shut off.  </p>
+<p>The anxious and critical voices we use to speak to ourselves fill the silence we crave.</p>
+<p>The paradox is silence can be scary. When first encountered, quietness is a mirror we avoid because it reflects too much, and we fear losing part of ourselves. </p>
+<p>When we embrace silence—whether in a canyon or in the stillness between breaths—it pulls us into the present, urging us to observe what’s around us.</p>
+<p>Out of silence springs creativity—the kind that sneaks up on you when the noise finally fades.</p>
+<p>----------------------------------
+<!--
+<h2>Source: </h2></p>
+<h2>See Also</h2>
+<ul><li>Silence as a Muse in Creativity [[202408040834]]</li></ul>
+     * Silence is a catalyst for creativity in art and artistic endeavors.
+<li>Exploring the Multifaceted Concept of Ambient [[202403020840]]</li>
+     * Our surroundings have a profound impact on our well-being and creativity.
+<p>--></p>]]></description>
     </item>
 
     <item>
@@ -117,9 +265,20 @@ This keeps me humble.
       <link>https://willsimpson.netlify.app/n/never-argue-with-a-fool</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/never-argue-with-a-fool</guid>
       <pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
-      <description>This shows me that I act foolishly when I argue. I lose my composure and slip into dysregulated behavior. These are instructional clichés. 
-
-	•	“Never argue with an idiot. They will drag you down to t...</description>
+      <description><![CDATA[<p>This shows me that I act foolishly when I argue. I lose my composure and slip into dysregulated behavior. These are instructional clichés. </p>
+<p>	•	“Never argue with an idiot. They will drag you down to their level and beat you with experience.” ― Mark Twain.
+	•	Arguing with a fool means that now, there are 2 of them.
+	•	"I learned years ago, never to wrestle with a pig, you get dirty, besides the pig likes it." - George Bernard Shaw,
+	•	It takes a wise person to know when to keep their mouth shut and let the fool do the talking.</p>
+<p>
+##### Link: - Reilly, Winifred M.. <em>It Takes One to Tango: How I Improved My Marriage - with Absolutely No Help from My Husband<em> - and How You Can, Too (</em>Maybe Just a Little)</em>. 2017. </p>
+<p>----------------------------------
+<!--
+<h2>Source: The</h2></p>
+<h2>See Also</h2>
+<ul><li>Relationship error: models and management [[202501201502]]</li></ul>
+<li>Noticing Dysregulation in my Relationships [[202501200915]]</li>
+<p>--></p>]]></description>
     </item>
 
     <item>
@@ -127,7 +286,22 @@ This keeps me humble.
       <link>https://willsimpson.netlify.app/n/noticing-dysregulation-in-my-relationships</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/noticing-dysregulation-in-my-relationships</guid>
       <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
-      <description>Keeping my composure is hardest when I become &apos;dysregulated.&apos; Look for ways to be less dysregulated.	Think about developing this and other skills. Whether I&apos;m working on relationship skill development...</description>
+      <description><![CDATA[<p>Keeping my composure is hardest when I become 'dysregulated.' Look for ways to be less dysregulated.	Think about developing this and other skills. Whether I'm working on relationship skill development or I struggle. </p>
+<p>Break these ideas down into chunks. "Breaking down the idea of looking ahead into anticipating, choosing your future self, preparing, celebrating, adapting, and experimenting makes more sense to me than treating it as one big lump," said Sacha. These sub-skills can be the starting points for exploration here on the blog.</p>
+<p>Tolerating my discomfort is something I'd not considered maturely. This is a way to be conscious of my dysregulation. Dysregulation is uncomfortable. Staying with the uncomfortable is a Stoic and mindful practice. Being uncomfortable should trigger a mindful moment, but instead, I spiral into relationship hell because I dysregulate. </p>
+<p>How do I make things better next time? This can be applied in both positive and negative situations. In both comfortable and uncomfortable situations. Don't blame myself or others. This will not help me move forward. </p>
+<p>From James Reason's ~<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1117770/">Swiss Cheese model of human errors</a>~:
+> The basic premise in the system approach is that humans are fallible and errors are to be expected, even in the best organisations. Errors are seen as consequences rather than causes, having their origins not so much in the perversity of human nature as in “upstream” systemic factors. … When an adverse event occurs, the important issue is not who blundered, but how and why the defences failed.
+By reframing this and focusing on relationships, I see dysfunctionality in relationships as a consequence of upstream factors and a failure to notice the dysregulation in the situation. Failures in relationships are learning opportunities for a curious and welcoming position if I can weather the storm of the monkey mind as it dysregulates my awareness. 	</p>
+<p>#### Link: 
+<a href="https://sachachua.com/blog/2025/01/learning-more-about-looking-ahead-together/">Learning more about looking ahead together :: Sacha Chua</a></p>
+<p>----------------------------------
+<!--
+<h2>Source: </h2>
+Sacha Chua</p>
+<h2>See Also</h2>
+<p>
+--></p>]]></description>
     </item>
 
     <item>
@@ -135,7 +309,20 @@ This keeps me humble.
       <link>https://willsimpson.netlify.app/n/mindfulness-and-inactivity-enhances-cooking</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/mindfulness-and-inactivity-enhances-cooking</guid>
       <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-      <description>The hidden wealth of inactivity is often overlooked, but it’s crucial for creativity and mindfulness. Inactivity, often seen as mere idleness, is actually the fertile ground from which creative ideas ...</description>
+      <description><![CDATA[<p>The hidden wealth of inactivity is often overlooked, but it’s crucial for creativity and mindfulness. Inactivity, often seen as mere idleness, is actually the fertile ground from which creative ideas sprout, offering a necessary pause for reflection and innovation. Inactivity is also a synonym for mindfulness. Both are empty of self and available in the midst of activity.</p>
+<p>What does the mindful presence of inactivity look like in cooking? In preparing a meal, there are times of activity and inactivity. We actively chop and prep, mix and fold, and gather ingredients and tools for the work ahead. We study the recipe and make a plan. </p>
+<p>All this is done before the actual cooking, which involves inactivity. Stiring,	sauteing, boiling, roasting, baking, grilling, resting, and raising are turms for the many forms of inactivity. </p>
+<p>Being intentional in the act of inactivity can nudge flavors and aromas into existence. Attention to inactivity and to letting what happens unfold during cooking are metaphors for life. </p>
+<p>
+##### Link: 
+<ul><li><a href="https://willsimpson.netlify.app/n/the-cooking-revolution/">The Cooking Revolution</a></li></ul></p>
+<p>----------------------------------
+<!--
+<h2>Source: </h2></p>
+<h2>See Also</h2>
+<p></p>
+<h2>References</h2>
+<p>--></p>]]></description>
     </item>
 
     <item>
@@ -143,12 +330,18 @@ This keeps me humble.
       <link>https://willsimpson.netlify.app/n/how-writing-reimagines-life</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/how-writing-reimagines-life</guid>
       <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
-      <description>GENIUS.COM
-James Somers 
-
-James reminds me that living more curiously means writing. You&apos;ll become a researcher of the world you care about. It will come to life the more you look.
-
- A writing bucket....</description>
+      <description><![CDATA[<p>GENIUS.COM
+James Somers </p>
+<p>James reminds me that living more curiously means writing. You'll become a researcher of the world you care about. It will come to life the more you look.</p>
+<p>#### A writing bucket.
+It has a traction force field that has a gravitational pull on ideas. Once a bucket of writing starts, reading and conversations change. They have new themes coinciding with the writing bucket. They have more meaning. </p>
+<p>##### Link: <a href="https://genius.com/4013215/James-somers-more-people-should-write/A-preoccupation-in-that-sense-is-a-hell-of-a-useful-thing-for-a-mind">More people should write</a></p>
+<p>----------------------------------
+<!--
+<h2>See Also</h2>
+<ul><li>The bucket theory of creativity [[202501031655]]</li></ul>
+     
+--></p>]]></description>
     </item>
 
     <item>
@@ -156,9 +349,25 @@ James reminds me that living more curiously means writing. You&apos;ll become a 
       <link>https://willsimpson.netlify.app/n/following-the-butterflies-of-interest</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/following-the-butterflies-of-interest</guid>
       <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
-      <description>SACHACHUA.COM
-
-Sacha has me thinking about the difference between feeding many interests and leading a focused life. Different days are flavored with different activities. The way to work with this is...</description>
+      <description><![CDATA[<p>#### SACHACHUA.COM</p>
+<p>Sacha has me thinking about the difference between feeding many interests and leading a focused life. Different days are flavored with different activities. The way to work with this is to plan and work intentionally. Don't let attention wander unsupervised.    </p>
+<p>> Following the butterflies of your interest
+> Something about how to follow the butterflies of your interest, because I rarely see this perspective in productivity books and because it's something other people might find helpful.
+> - What is the change I want to make in myself? I want to get better at going with the grain of my energy, doing what I want to do (and doing the work that helps me want what is good to want).
+> - Who would find this useful? People with many interests - scanners, multi-potentialites, Renaissance-people-to-be.
+> - To do this, it would be good to read about:
+>   1. Career and life planning, especially unconventional paths
+>   2. Productivity
+>   3. Writing, note-taking
+>   4. Psychology, cognitive limits, distraction</p>
+<p>
+##### Link: <a href="https://pages.sachachua.com/sharing/#orgead94b1">Sharing Outline</a></p>
+<p>----------------------------------
+<!--
+<h2>See Also</h2></p>
+<p></p>
+<h2>References</h2>
+<p>--></p>]]></description>
     </item>
 
     <item>
@@ -166,11 +375,25 @@ Sacha has me thinking about the difference between feeding many interests and le
       <link>https://willsimpson.netlify.app/n/now</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/now</guid>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <description>My Now Page
+      <description><![CDATA[<h2>My Now Page</h2>
 Last Updated: 2026.01.11
- What I’m Doing Now.
-- This is the first time in a long time that I haven&apos;t been able to take a University of Idaho class.
- - I&apos;ve been using the Palouse Woodworke...</description>
+<h1>What I’m Doing Now.</h1>
+<ul><li>This is the first time in a long time that I haven't been able to take a University of Idaho class.</li></ul>
+<li>I've been using the Palouse Woodworkers Collective to stay connected with the local woodworking community. It is a crowded space, but I have to work with what I have until I can set up my own shop.</li>
+<li>I've started the preperation for changing the garage into a workshop.</li>
+ 
+#### SKETCHING
+<li>Each week, I get reminded by filling out this Now page that I need to restart my sketching.</li>
+<p>#### READING
+<li>Duke, Annie. Thinking in Bets: Making Smarter Decisions When You Don’t Have All the Facts. Portfolio/Penguin, 2018. Library of Congress ISBN 978-0-7352-1635-8.</li></p>
+<p>#### HEALTH & VISION
+<li>I've been focusing on my step count — 9,971 average steps per day this week, which is way up from last week. This is something I want to focus on and keep up. This will mean I will be walking without Zivon and Mary, taking the bus downtown and walking back. </li>
+<li>Why can't I seem to establish a lifting and stretching routine? I haveto remember that exercise is the best medicine.</li>
+<li>I am becoming a caregiver to my wife, who has Parkinson's and the beginning of dementia.</li></p>
+<p>#### WOODWORKING
+<li>Challenges with time have conspired against me. Finding a place for all the "stuff" in the garage has been a challenge. This week, I should find out where I can put the stuff to start organizing the garage for its conversion to a workshop.</li></p>
+<p>---
+Hat tip to David Sparks for the idea for <a href="https://www.macsparky.com/now/">this “Now” page</a>. I’m not great at social media, but this page lets me check in with the world and update you, as David recommends, just as I would when catching up with an old friend.</p>]]></description>
     </item>
 
     <item>
@@ -178,13 +401,39 @@ Last Updated: 2026.01.11
       <link>https://willsimpson.netlify.app/n/mary-howe-poem---government</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/mary-howe-poem---government</guid>
       <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
-      <description>&gt; Government  
-&gt; by Mary Howe  
-&gt;  –––
-&gt;  
-&gt; Standing next to my old friend I sense that his soldiers have retreated.  
-&gt; And mine? They’re resting their guns on their shoulders  
-&gt; talking quietly. I...</description>
+      <description><![CDATA[<p>> Government  
+> by Mary Howe  
+>  –––
+>  
+> Standing next to my old friend I sense that his soldiers have retreated.  
+> And mine? They’re resting their guns on their shoulders  
+> talking quietly. I’m hungry, one says.  
+> Cheeseburger, says another,  
+> and they all decide to go and find some dinner.  
+> But the next day, negotiating the too narrow aisles of  
+> The Health and Harmony Food Store—when I say, Excuse me,  
+> to the woman with her cart of organic chicken and green grapes  
+> she pulls the cart not quite far back enough for me to pass,  
+> and a small mob in me begins picking up the fruit to throw.  
+> So many kingdoms,  
+> and in each kingdom, so many people; the disinherited son,  
+> the corrupt counselor, the courtesan, the fool.  
+> And so many gods—arguing among themselves,  
+> over toast, through the lunch salad  
+> and on into the long hours of the mild spring afternoon—I’m the god.  
+> No, I’m the god. No, I’m the god.  
+> I can hardly hear myself talking over their muttering.  
+> How can I discipline my army? They’re exhausted and want more money.  
+> How can I disarm when my enemy seems so intent?  </p>
+<p>This reminded me of Peter O'Tool's character in <em>The Ruling Class</em> when he says: "When did I realize I was God? Well, I was praying, and I suddenly realized I was talking to myself." </p>
+<p>——————</p>
+<p>##### Link: <a href="https://www.amazon.com/New-Selected-Poems-Marie-Howe/dp/1324075031/">New and Selected Poems: Marie Howe</a></p>
+<p>----------------------------------
+<!--
+<h2>Source: Howe, Marie. New and Selected Poems. W. W. Norton & Company, 2024.</h2></p>
+<h2>See Also</h2>
+<ul><li>Talking to myself [[201812250906]]</li></ul>
+<p>--></p>]]></description>
     </item>
 
     <item>
@@ -192,11 +441,21 @@ Last Updated: 2026.01.11
       <link>https://willsimpson.netlify.app/n/in-depth-luna-explainer</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/in-depth-luna-explainer</guid>
       <pubDate>Wed, 25 Dec 2024 00:00:00 GMT</pubDate>
-      <description>CIECHANOW.SKI
-Moon Astronomy(https://ciechanow.ski/moon/)
+      <description><![CDATA[<h2>CIECHANOW.SKI</h2>
+<a href="https://ciechanow.ski/moon/">Moon Astronomy</a>
 2024-12-25
-
-Who knew that the moon would be such a fascinating subject? The depth of explanation pushes at the edge of one&apos;s knowledge in a wa...</description>
+<p>Who knew that the moon would be such a fascinating subject? The depth of explanation pushes at the edge of one's knowledge in a way that is stimulating. The animated visuals that go along with the explanation of the various astronomical stuff are superior to anything I've seen before. </p>
+<p>Moon reflections, eclipses, phases, distances, orbits, geography, and tidal influences are just a few of the topics covered in this 16337-word article.   </p>
+<p>> The Moon may be just an unassuming neighbor in the sky, but its presence affects our lives in many subtle ways. When it reflects sunlight off its scarred surface to guide the way in the darkness of night, or as it breathes life into oceans by rhythmically raising tides, or when it cloaks the Sun in a rare and awe-inspiring total solar eclipse, the Moon reminds us of the celestial world right outside of the safe confines of our planet.</p>
+<p>> Traveling through the cold and empty space by Earth’s side, the Moon is always just there. It may be barren and dull, but undeterred by its lifelessness, it never leaves us completely alone.</p>
+<p>> Perhaps the next time you catch a glimpse of the Moon’s shiny surface beaming in the night sky, you’ll see it a little differently – not as a mundane fixture of the heavens, but as a fellow companion that gently affects our own existence.
+----------------------------------
+<!--
+<h2>Source: Bartosz Ciechanowski </h2></p>
+<h2>See Also</h2>
+<p></p>
+<h2>References</h2>
+<p>--></p>]]></description>
     </item>
 
     <item>
@@ -204,9 +463,22 @@ Who knew that the moon would be such a fascinating subject? The depth of explana
       <link>https://willsimpson.netlify.app/n/reading-&-writing-as-human-expression-&-connection</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/reading-&-writing-as-human-expression-&-connection</guid>
       <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
-      <description>Reading and writing are not the end goals. Connection and expression are. I want to connect and exchange ideas and express my ideas as a reciprocal gift. 
-
-Keep these reasons for reading and writing i...</description>
+      <description><![CDATA[<p>Reading and writing are not the end goals. Connection and expression are. I want to connect and exchange ideas and express my ideas as a reciprocal gift. </p>
+<p>Keep these reasons for reading and writing in mind, and do not let the social pressures of writing interfere. I'm writing for myself. 
+ 
+> The more compelling and interesting reason that most writers seek out readers is, I think, less utilitarian: we receive our writing as a gift, and so it must be given in turn. We write because something needs to be expressed through us, and only by giving the writing to a reader is that need fulfilled. <a href="https://aworkinglibrary.com/writing/peasant-woodland">Mandy Brown</a></p>
+<p>> I yearn for readers both because I need people to receive the gift and because I know my own well-being is entangled up with theirs. <a href="https://aworkinglibrary.com/writing/peasant-woodland">Mandy Brown</a></p>
+<p>
+##### Link: <a href="https://blog.jim-nielsen.com/2024/writing-is-human-expression/">Reading and Writing as Human Expression & Connection</a></p>
+<p>----------------------------------
+<!--
+<h2>Source: Jim Nielsen</h2></p>
+<h2>See Also</h2>
+<ul><li>The Dance of Thought and Ink [[202309290830]]</li></ul>
+<li>Put your imagination on the page [[202107290753]]</li>
+<p>
+<h2>References</h2></p>
+<p>--></p>]]></description>
     </item>
 
     <item>
@@ -214,9 +486,24 @@ Keep these reasons for reading and writing i...</description>
       <link>https://willsimpson.netlify.app/n/confident-of-uncertainty</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/confident-of-uncertainty</guid>
       <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
-      <description>I write in my journal and in my zettelkasten to test my reflections. In doing so, I shape myself into a mature, intellectual craftsman. 
-
-Historically, creatives keep journals or boxes of notes (a zet...</description>
+      <description><![CDATA[<p>I write in my journal and in my zettelkasten to test my reflections. In doing so, I shape myself into a mature, intellectual craftsman. </p>
+<p>Historically, creatives keep journals or boxes of notes (a zettelkasten). This is a huge confidence builder; one becomes confident in one's uncertainty. </p>
+<p>##### Link: - Mills, C. Wright. “On Intellectual Craftsmanship (1952).” Society, vol. 17, no. 2, 1980, pp. 63–70, https://doi.org/10.1007/bf02700062.  
+  
+  
+  ----------------------------------
+  
+#### Today doddle.
+!<a href="media/dec_23.jpg"></a>
+</p>
+<p>
+----------------------------------
+<!--
+<h2>Source: Shape myself [[201901211027]] 01-21-2019</h2></p>
+<h2>See Also</h2>
+<p>
+<h2>References</h2></p>
+<p>--></p>]]></description>
     </item>
 
     <item>
@@ -224,7 +511,37 @@ Historically, creatives keep journals or boxes of notes (a zet...</description>
       <link>https://willsimpson.netlify.app/n/programming-zk-dashboard</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/programming-zk-dashboard</guid>
       <pubDate>Sat, 21 Dec 2024 00:00:00 GMT</pubDate>
-      <description>I spent some time today refining my ZK dashboard because I have changed a bit of the YAML for my notes in order to accommodate my blogging software, 11ty. I advanced my blogging with OpenAI&apos;s ChatGPT&apos;...</description>
+      <description><![CDATA[<p>I spent some time today refining my ZK dashboard because I have changed a bit of the YAML for my notes in order to accommodate my blogging software, 11ty. I advanced my blogging with OpenAI's ChatGPT's help. </p>
+<p>I hope that keeping my blogging progress in sight will motivate me to blog more—that, along with my 31by31 blogging challenge.</p>
+<p>Today's sketch.
+!<a href="media/IMG_0895.jpg"></a></p>
+<p>
+Here is what the current ZK Dashboard looks like on 2024-12-21. </p>
+<p>––––––  
+<h2>Zettelkasten Statistics  </h2>
+           ★★★★★  
+    1423023 Total word count  
+    21037 Total link count  
+    4213 Total zettel count  
+           ★★★★★  
+    
+14-day trend: 21/21 ⎯  
+100-day trend: 118/129 ⬇︎  
+1.89 notes/day since day zero (20181114).  
+20 zettels in my proofing oven.  
+68 notes were modified in the past 14 days.  
+48 incrementally improved over the past 14 days.  
+9 blog posts in the last 14 days.  
+84 zettels are blog posts.  </p>
+<p>----------------------------------
+<!--
+<h2>Source: </h2></p>
+<h2>See Also</h2>
+<ul><li>Zettelkasting Dashboard [[202008011415]]</li></ul>
+<li>My Knowledge Project [[202110081952]]</li>
+<li>PKM Dashboard [[202110010953]]</li>
+<h2>References</h2>
+<p>--></p>]]></description>
     </item>
 
     <item>
@@ -232,12 +549,19 @@ Historically, creatives keep journals or boxes of notes (a zet...</description>
       <link>https://willsimpson.netlify.app/n/curiosity-as-the-key-to-communication</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/curiosity-as-the-key-to-communication</guid>
       <pubDate>Fri, 20 Dec 2024 13:23:00 GMT</pubDate>
-      <description>!(media/IMG0894.jpg)
-
-
-In every conversation, I&apos;m on stage. People expect me to deliver.
-
-You want to feel the presence of the person you are talking to. See them as individuals in their own situation...</description>
+      <description><![CDATA[<p>!<a href="media/IMG_0894.jpg"></a></p>
+<p>
+In every conversation, I'm on stage. People expect me to deliver.</p>
+<p>You want to feel the presence of the person you are talking to. See them as individuals in their own situations, and remember that they may be busy, wrapped up in their dramas, and may not be interested in what you have to say. Watch what you say and how it affects your conversation partners. Spend more time listening and trying to grasp their feelings.</p>
+<p>Look behind the curtain and watch the magic happen. If you want more original, heartfelt communication or are stuck in a rut, start fresh by becoming curious about the world of others. </p>
+<p>----------------------------------
+<!--
+<h2>Source: </h2></p>
+<h2>See Also</h2>
+<ul><li>Feel the presence of the other [[201903081545]]</li></ul>
+<p></p>
+<h2>References</h2>
+<p>--></p>]]></description>
     </item>
 
     <item>
@@ -245,11 +569,24 @@ You want to feel the presence of the person you are talking to. See them as indi
       <link>https://willsimpson.netlify.app/n/velocity-as-a-metaphor-for-life</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/velocity-as-a-metaphor-for-life</guid>
       <pubDate>Thu, 19 Dec 2024 13:35:00 GMT</pubDate>
-      <description>!(media/IMG0892.jpg)
-
-Velocity, as a mental model, defines a spectrum from stagnant to fleeting.
-
-Velocity is the arrow pointing the way from here to there. In physics, it is the role of action and be...</description>
+      <description><![CDATA[<p>!<a href="media/IMG_0892.jpg"></a></p>
+<p>Velocity, as a mental model, defines a spectrum from stagnant to fleeting.</p>
+<p>Velocity is the arrow pointing the way from here to there. In physics, it is the role of action and behavior. Everything has a velocity.</p>
+<p>> It is also a metaphor for life. Consider it the rate at which we learn and grow, the speed at which we innovate and create, and the focus with which we pursue our goals.</p>
+<p>Use velocity to help determine if you are traveling at the right speed, on the right trajectory, and carrying the right mass to move toward your goals. You must remain Bayesian in your thinking and not get carried away solely focused on your velocity. </p>
+<p>Velocity always has a direction. It matters where your velocity is taking you. Is it taking you towards your goals?
+ 
+> Velocity is progress. Sometimes, progress comes from adding more force, and sometimes, progress comes from removing friction. Once you have a destination, you can improve your velocity by working harder and eliminating things that aren’t contributing toward reaching that goal. </p>
+<p>##### Link: <a href="https://click.convertkit-mail4.com/8kuv83r8kboh04vp57f0fkwqe399c3/6qheh8h79r7r68so/aHR0cHM6Ly9mcy5ibG9nL3RnbW0v">The Great Mental Models v2: Physics, Chemistry, and Biology</a> </p>
+<p>----------------------------------
+<!--
+<h2>Source: Shane Parrish</h2></p>
+<h2>See Also</h2>
+<ul><li>Do Ten Times as Much [[202412040756]]</li></ul>
+<li>Doing more practice than everyone else is the way to get better than everyone else.</li>
+<p>
+<h2>References</h2></p>
+<p>--></p>]]></description>
     </item>
 
     <item>
@@ -257,7 +594,27 @@ Velocity is the arrow pointing the way from here to there. In physics, it is the
       <link>https://willsimpson.netlify.app/n/most-things-are-not-about-you</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/most-things-are-not-about-you</guid>
       <pubDate>Wed, 18 Dec 2024 13:31:00 GMT</pubDate>
-      <description>Have you ever found out you&apos;ve misinterpreted a friend&apos;s or loved one&apos;s behavior? It happens to me all the time. This lens on life plays a major role in all my interactions and is the primary cause of...</description>
+      <description><![CDATA[<p>Have you ever found out you've misinterpreted a friend's or loved one's behavior? It happens to me all the time. This lens on life plays a major role in all my interactions and is the primary cause of strife in some relationships.</p>
+<p>It is the reason that when Mary takes so much time to get ready to go to town, I think she is unable to focus on the task at hand. My assessment is uncharitable and based on my inner world and not hers. The judgments I make of the behavior of Mary say more about me than her.  </p>
+<p>We make bad explanations for unwanted behavior. We tend to see others as bad actors in negative situations, while we see ourselves as having logical reasons for all of our actions. This is because we don't have access to anyone else's inner life. </p>
+<p>Fundamental attribution error and correspondence bias are related to this defect in our social wiring. We are not unique to you and me. It has been a universal glitch in our wiring since a time when it was evolutionarily imperative to quickly simplify interactions.</p>
+<p>Self-awareness is a never-ending, life-long journey. Pausing before passing judgment is a form of kindness to others and yourself. </p>
+<p><strong>This is a behavior and mindset I’d like to develop.</strong> 
+1. Curiosity interrupts judgment.
+2. Empathy challenges assumptions.
+3. We are in this life together.</p>
+<p>##### Link: <a href="https://medium.com/@KimWitten/an-uncharitable-read-18574adcc727">What taking the uncharitable read really says about you | by Kim Witten, PhD | Medium</a>
+<ul><li>"Fundamental Attribution Error." <em>Wikipedia</em>, Wikimedia Foundation, 12 Dec. 2024, en.wikipedia.org/wiki/Fundamental<em>attribution</em>error. Accessed 18 Dec. 2024.</li></ul></p>
+<p>----------------------------------
+<!--
+<h2>See Also</h2>
+<li>Correspondence Biases [[201912201514]]</li>
+<li>Debiasing [[201912011039]]</li>
+<li>Fundamental attribution error [[201905140815]]</li></p>
+<p></p>
+<h2>References</h2>
+<li>https://chatgpt.com/share/6762d923-5414-8000-bee7-7cf02aecc904</li>
+-->]]></description>
     </item>
 
     <item>
@@ -265,9 +622,17 @@ Velocity is the arrow pointing the way from here to there. In physics, it is the
       <link>https://willsimpson.netlify.app/n/get-better-at-being-better</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/get-better-at-being-better</guid>
       <pubDate>Fri, 13 Dec 2024 13:38:00 GMT</pubDate>
-      <description>&gt; What truly changes the game is when we decide to commit to being better at being better. - Seth Godin
-
-This struck me as a noble goal. It doesn&apos;t contradict a Stoic or Zennist view if we don&apos;t get t...</description>
+      <description><![CDATA[<p>> <strong><em>What truly changes the game is when we decide to commit to being better at being better.</em></strong> - Seth Godin</p>
+<p>This struck me as a noble goal. It doesn't contradict a Stoic or Zennist view if we don't get too hung up on what better means. </p>
+<p>I think better means more flourishing for everyone.</p>
+<p>##### Link: <a href="https://seths.blog/2024/12/better-at-being-better/">Better at being better | Seth's Blog</a></p>
+<p>----------------------------------
+<!--
+<h2>See Also</h2>
+<ul><li>Flourishing [[201902081652]]</li></ul>
+<li>Mature habits for flourishing [[202305250737]]</li></p>
+<h2>References</h2>
+-->]]></description>
     </item>
 
     <item>
@@ -275,9 +640,18 @@ This struck me as a noble goal. It doesn&apos;t contradict a Stoic or Zennist vi
       <link>https://willsimpson.netlify.app/n/my-ideas-overlap</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/my-ideas-overlap</guid>
       <pubDate>Fri, 13 Dec 2024 12:21:00 GMT</pubDate>
-      <description>This is my first modern attempt at sketch-noting. It graphically portrays my idea. It would take a ton of words to explain. I want to build up my tool kit. 
-
-This was posted in a thread talking about ...</description>
+      <description><![CDATA[<p>This is my first modern attempt at sketch-noting. It graphically portrays my idea. It would take a ton of words to explain. I want to build up my tool kit. </p>
+<p>This was posted in a thread talking about Permanent, Source, and Point notes and how they express my ideas, the ideas of others, and whether these can be considered original ideas. I'm thinking this is a red haring.    </p>
+<p>!<a href="media/venn.png"></a></p>
+<p></p>
+<p>##### Link: <a href="https://forum.zettelkasten.de/discussion/comment/22231/#Comment_22231">Keeping Own Ideas in Zettelkasten? — Zettelkasten Forum</a></p>
+<p>----------------------------------
+<!--
+<h2>See Also</h2>
+<ul><li>Make Useful Notes [[202412121808]]</li></ul></p>
+<p>
+<h2>References</h2>
+--></p>]]></description>
     </item>
 
     <item>
@@ -285,9 +659,25 @@ This was posted in a thread talking about ...</description>
       <link>https://willsimpson.netlify.app/n/percentage-of-food-budget</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/percentage-of-food-budget</guid>
       <pubDate>Wed, 11 Dec 2024 22:08:00 GMT</pubDate>
-      <description>This infographic shows food spending is a lower percentage of a household&apos;s budget in the US than in many developed countries. 
-
-A deep dive into the data shows the average American spends $3,382.00 a...</description>
+      <description><![CDATA[<p>This infographic shows food spending is a lower percentage of a household's budget in the US than in many developed countries. </p>
+<p>A deep dive into the data shows the average American spends $3,382.00 annually or $65.00 weekly on food. This seems like it is not enough for a typical family to live on. I spend more than this. </p>
+<p>This is an isolated statistic that begs further study.
+<ul><li>Why do families in the poorest countries pay the most for food?</li></ul>
+<li>How do health outcomes relate to food expenditures?</li>
+<li>Shouldn't we, in America, be paying more for our food?</li>
+<li>How much of the expenditure on food goes to unhealthy options?</li></p>
+<p>This is the chart's <a href="https://brucemehlman.substack.com/p/six-chart-sunday-45-reasons-for-thanks">source</a>. </p>
+<p>!<a href="media/food_spending.webp"></a></p>
+<p></p>
+<p>##### Link:<a href="https://alearningaday.blog/2024/12/09/the-nature-of-growth/">The nature of growth – A Learning a Day</a></p>
+<p>----------------------------------
+<!--
+<h2>See Also</h2>
+<li>Reducing food waste has unintended consequences [[202307301122]]</li>
+<li>Stock and Flow [[201901291200]]</li>
+<li>Precarity [[202007201008]]</li></p>
+<h2>References</h2>
+-->]]></description>
     </item>
 
     <item>
@@ -295,9 +685,19 @@ A deep dive into the data shows the average American spends $3,382.00 a...</desc
       <link>https://willsimpson.netlify.app/n/capture-attention-in-six-seconds</link>
       <guid isPermaLink="true">https://willsimpson.netlify.app/n/capture-attention-in-six-seconds</guid>
       <pubDate>Mon, 09 Dec 2024 00:32:00 GMT</pubDate>
-      <description>You have only six seconds to grab attention. If you can spark a fragment of interest, you might earn another twenty or thirty seconds. 
-
-What does this mean? You have about 13 words to hook them. If y...</description>
+      <description><![CDATA[<p>You have only six seconds to grab attention. If you can spark a fragment of interest, you might earn another twenty or thirty seconds. </p>
+<p>What does this mean? You have about 13 words to hook them. If you hook them, you have maybe 30-40 words to deliver the most compelling stuff. </p>
+<p>In order to compel a reader to pay attention to your message, you have to spend most of your time perfecting the first sentence. You need to prioritize the next couple of sentences.</p>
+<p>With emails, the subject line becomes the most critical signaller. </p>
+<p>##### Link: <a href="https://medium.com/swlh/youve-only-got-6-seconds-to-pitch-are-you-ready-ae6086918abd">You’ve Only Got 6 Seconds to Pitch, Are You Ready?</a>
+----------------------------------
+<!--
+<h2>See Also</h2>
+<ul><li>Writing a Compelling Nut Graf [[202411142030]]</li></ul>
+<li>This Title Is Here To Persuade You To Read This Note [[202310250804]]</li></p>
+<p>
+<h2>References</h2></p>
+<p>--></p>]]></description>
     </item>
   </channel>
 </rss>

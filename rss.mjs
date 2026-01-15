@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { execSync } from 'child_process';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -33,10 +34,41 @@ function parseFrontmatter(content) {
   return { metadata, content: bodyContent };
 }
 
-// Get first 200 characters as description
-function getDescription(content) {
-  const text = content.replace(/[#*_\[\]]/g, '').trim();
-  return text.substring(0, 200) + (text.length > 200 ? '...' : '');
+// Convert markdown to HTML using a simple regex-based approach
+function markdownToHtml(content) {
+  let html = content;
+  
+  // Convert headings
+  html = html.replace(/^### (.*?)$/gm, '<h3>$1</h3>');
+  html = html.replace(/^## (.*?)$/gm, '<h2>$1</h2>');
+  html = html.replace(/^# (.*?)$/gm, '<h1>$1</h1>');
+  
+  // Convert bold
+  html = html.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+  html = html.replace(/__(.*?)__/g, '<strong>$1</strong>');
+  
+  // Convert italic
+  html = html.replace(/\*(.*?)\*/g, '<em>$1</em>');
+  html = html.replace(/_(.*?)_/g, '<em>$1</em>');
+  
+  // Convert bullet lists
+  html = html.replace(/^\s*- (.*?)$/gm, '<li>$1</li>');
+  html = html.replace(/(<li>.*?<\/li>)/s, '<ul>$1</ul>');
+  html = html.replace(/<\/ul>\n<ul>/g, '');
+  
+  // Convert links
+  html = html.replace(/\[(.*?)\]\((.*?)\)/g, '<a href="$2">$1</a>');
+  
+  // Convert line breaks to paragraphs
+  const paragraphs = html.split('\n\n').map(para => {
+    if (!para.match(/^<[hul]/)) {
+      return `<p>${para}</p>`;
+    }
+    return para;
+  });
+  html = paragraphs.join('\n');
+  
+  return html;
 }
 
 // Parse date string to ISO format
@@ -85,13 +117,13 @@ function generateRssFeed() {
     const { metadata, content: bodyContent } = parseFrontmatter(content);
     
     const title = metadata.title || file.replace(/\.md$/, '');
-    const description = getDescription(bodyContent);
+    const htmlContent = markdownToHtml(bodyContent);
     const date = parseDate(metadata.cdate || metadata.date);
     const slug = fileToSlug(file);
     
     items.push({
       title,
-      description,
+      content: htmlContent,
       date,
       link: `https://willsimpson.netlify.app/n/${slug}`,
       guid: `https://willsimpson.netlify.app/n/${slug}`,
@@ -109,19 +141,19 @@ function generateRssFeed() {
       <link>${item.link}</link>
       <guid isPermaLink="true">${item.guid}</guid>
       <pubDate>${new Date(item.date).toUTCString()}</pubDate>
-      <description>${escapeXml(item.description)}</description>
+      <description><![CDATA[${item.content}]]></description>
     </item>`)
     .join('\n');
   
   const rss = `<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Will Simpson's Notes</title>
     <link>https://willsimpson.netlify.app</link>
     <description>A simple, lightweight, and flexible note-taking template for Eleventy.</description>
     <language>en-us</language>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
-    <atom:link href="https://willsimpson.netlify.app/feed.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom" />
+    <atom:link href="https://willsimpson.netlify.app/feed.xml" rel="self" type="application/rss+xml" />
 ${rssItems}
   </channel>
 </rss>`;
