@@ -7,25 +7,23 @@ tags:
 description: What I'm doing now.
 ---
 ## My Now Page
-Last Updated: 2026.01.11
+Last Updated: 2026.01.20
 # What I’m Doing Now.
-- This is the first time in a long time that I haven't been able to take a University of Idaho class.
- - I've been using the Palouse Woodworkers Collective to stay connected with the local woodworking community. It is a crowded space, but I have to work with what I have until I can set up my own shop.
- - I've started the preperation for changing the garage into a workshop.
+- I'm working on getting a shop set up in our 2-car garage. It will be a nice space. Easy to heat, easy to access, and it will be convenient. Wood storage and tool layout are the first things on the list. I've put in a work order for 220V power, which is required for the bandsaw, and we'll see how that goes.
  
 #### SKETCHING
   - Each week, I get reminded by filling out this Now page that I need to restart my sketching.
 
 #### READING
 - Duke, Annie. Thinking in Bets: Making Smarter Decisions When You Don’t Have All the Facts. Portfolio/Penguin, 2018. Library of Congress ISBN 978-0-7352-1635-8.
+- Dalton, Chloe. Raising Hare: A Memoir. Vintage, 2026.
 
 #### HEALTH & VISION
-- I've been focusing on my step count — 9,971 average steps per day this week, which is way up from last week. This is something I want to focus on and keep up. This will mean I will be walking without Zivon and Mary, taking the bus downtown and walking back. 
-- Why can't I seem to establish a lifting and stretching routine? I haveto remember that exercise is the best medicine.
-- I am becoming a caregiver to my wife, who has Parkinson's and the beginning of dementia.
+- I've been focusing on my step count — 11,328 average steps per day this week, which is way up from last week. This is something I want to focus on and keep up. This will mean I will be walking without Zivon and Mary, taking the bus downtown and walking back. 
+- I am becoming a caregiver to my wife, who has Parkinson's and the beginning of dementia. This is challenging my abilities to be the person I want to be.
 
 #### WOODWORKING
-- Challenges with time have conspired against me. Finding a place for all the "stuff" in the garage has been a challenge. This week, I should find out where I can put the stuff to start organizing the garage for its conversion to a workshop.
+- The garage has been cleared out of all the non-woodworking stuff, and the intial layout of the shop tools and storage is done. Now I'm looking forward to the electrician installing the 220V power.
 
 ---
 Hat tip to David Sparks for the idea for [this “Now” page](https://www.macsparky.com/now/). I’m not great at social media, but this page lets me check in with the world and update you, as David recommends, just as I would when catching up with an old friend.
