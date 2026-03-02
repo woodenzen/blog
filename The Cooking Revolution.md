@@ -2,7 +2,7 @@
 title:      # The Cooking Revolution 
 UUID:      ›[[202601141614]] 
 date:     2026-01-14
-archive_tags:       #proofing #blog-post 
+archive_tags:       #blog-post 
 tags:       
       - blog-post
 description: 

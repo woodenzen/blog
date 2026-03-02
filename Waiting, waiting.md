@@ -2,7 +2,7 @@
 title:      # Waiting, waiting 
 UUID:      ›[[202601280640]] 
 date:     2026-01-28
-archive_tags:       #proofing #blog-post 
+archive_tags:       #blog-post 
 tags:       
       - blog-post
 description: 

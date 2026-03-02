@@ -22,6 +22,7 @@ It has a traction force field that has a gravitational pull on ideas. Once a buc
 <!--
 ## See Also
 - The bucket theory of creativity [[202501031655]]
-     
+-  A preoccupation is useful for the mind [[202601060859]]
+     * Writing focuses curiosity and mental energy, generating and organizing insights.     
 -->
 
