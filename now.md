@@ -7,27 +7,24 @@ tags:
 description: What I'm doing now.
 ---
 ## My Now Page
-Last Updated: 2026.03.01
+Last Updated: 2026.04.12
 # What I’m Doing Now. 
-- My shop is functioning. The electrical install went well. Now I want to get the lighting in order. The west end is well lit, and the east end is dim with the garage door closed. It will be nice and bright with the door open. 
-- Mary is getting better. She is more alert and has more energy.
+- The first few months of this year have been a blur of transitions. My routines are settling. I'm making new friends with the neighbors. Our health is up and down. Overall, life is good. It’s been a balancing act, but I’m learning to navigate it with more grace. 
+- Slowly getting my shop together. 
+- I am giving a guest presentation at the University of Idaho EDIC4370 class on my work on "A Thread of Light," a YA novel with a protagonist who is a low vision high school student.
   
 #### READING
-- Kabat-Zinn, Jon. Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life: A Guide to Your Place in the Universe and an Inquiry into Who and What You Are. 30th anniversary edition, Hachette Go, 2023.
-- Backman, Fredrik. My Friends. With Marin Ireland, Simon & Schuster Audio, 2025.
+- Seeing That Frees: Meditations on Emptiness and Dependent Arising by Rob Burbea 
+- Ishiguro, Kazuo. The Remains of the Day. 1st Vintage International ed, 1990
 
 #### HEALTH & VISION
-- I've been focusing on my step count — 12,477 average steps per day this week. This is something I want to focus on and keep up. This will mean I will be walking without Zivon and Mary, taking the bus downtown and walking back. 
+- I've been focusing on my step count — 12,770 average steps per day this week. This is something I want to focus on and keep up. This will mean I will be walking without Zivon and Mary, taking the bus downtown and walking back. 
+  - "I have two doctors, my left leg and my right." – George Macaulay Trevelyan, Walking, 1913
+  - "Your feet are your best friends. They tell you who you are." - Erling Kagge
 - I am becoming more and more of a caregiver to my wife, who has Parkinson's and the beginning of dementia. This is challenging my abilities to be the person I want to be.
 
 #### WOODWORKING
-- Now I am thinking about some new tools. 
-   - Tablesaw 
-   - Sanders
-     - edge
-     - drum
-  - Dust Collector
-  - Router and router table
+- I'm focusing on the current projects I'm working on to help guide tool acquisition. A table saw is the next step in my shop.
 
 ---
 Hat tip to David Sparks for the idea for [this “Now” page](https://www.macsparky.com/now/). I’m not great at social media, but this page lets me check in with the world and update you, as David recommends, just as I would when catching up with an old friend.
