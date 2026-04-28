@@ -70,7 +70,7 @@ git push
 
 Netlify watches the GitHub repository and runs the build defined in `netlify.toml`.
 
-The Netlify base directory should stay as the repository root. Markdown notes live at the root, so setting the base directory to `.app` can make Netlify skip builds when only notes change.
+The Netlify base directory should stay as the repository root. Markdown notes live at the root, so setting the base directory to `.app` can make Netlify skip builds when only notes change. The `base = "."` setting in `netlify.toml` pins this explicitly.
 
 For a production build check before pushing:
 
