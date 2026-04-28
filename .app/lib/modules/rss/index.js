@@ -1,5 +1,3 @@
-import fs from 'fs';
-import path from 'path';
 import { isDraft } from '../../shared/is-draft.js';
 
 export const rssModule = {

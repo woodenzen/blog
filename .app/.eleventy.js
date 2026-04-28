@@ -30,6 +30,4 @@ export default async function (eleventyConfig) {
   core.setup(eleventyConfig);
   // Add passthrough copy for the CSS directory
   eleventyConfig.addPassthroughCopy(".app/css");
-  // Copy feed.xml to root
-  eleventyConfig.addPassthroughCopy("feed.xml");
 }
