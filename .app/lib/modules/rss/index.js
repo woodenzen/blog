@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import { isDraft } from '../../shared/is-draft.js';
 
 export const rssModule = {
   setup: (eleventyConfig) => {
@@ -8,6 +9,7 @@ export const rssModule = {
       return collectionApi
         .getFilteredByGlob('../*.md')
         .filter(item => item.fileSlug !== 'index')
+        .filter(item => !isDraft(item.data))
         .sort((a, b) => new Date(b.data.cdate || b.date) - new Date(a.data.cdate || a.date));
     });
 

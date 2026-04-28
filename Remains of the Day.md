@@ -10,7 +10,7 @@ description: Book Review of Remains of the Day by Kazuo Ishiguro
 Book Review   
 Read April 12, 2026 to April 23, 2026 
 
-## Kazuo Ishiguro’s The Remains of the Day. 
+## Kazuo Ishiguro’s The Remains of the Day
 
 Stevens spends his life always composed, always “appropriate,” and slowly realizes he has missed the raw, imperfect intimacy of life.
 
