@@ -33,6 +33,14 @@ export async function transformParser(content) {
   await Promise.all(
     elements.map(async (img) => {
       const src = img.attribs.src;
+      const sourcePath = path.join(templateDir, src);
+
+      if (!fs.existsSync(sourcePath)) {
+        console.warn(
+          `[assets] Missing image "${src}" referenced from "${inputPath}".`
+        );
+        return;
+      }
 
       const paths = await buildPaths(templateDir, outputDir, src);
       $(img).attr("src", paths.newSrc);

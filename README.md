@@ -8,7 +8,7 @@ A simple Eleventy notes blog written as Markdown files from The Archive and publ
 - Keep the Eleventy app code in `.app/`.
 - Use `app.mjs` for site settings such as title, sidebar links, theme, and note queries.
 - Use `app.styles.scss` for small visual tweaks.
-- Netlify builds from `.app/` and publishes `.app/dist/`.
+- Netlify watches the whole repository, runs the Eleventy build from `.app/`, and publishes `.app/dist/`.
 
 ## Local Development
 
@@ -69,6 +69,8 @@ git push
 ```
 
 Netlify watches the GitHub repository and runs the build defined in `netlify.toml`.
+
+The Netlify base directory should stay as the repository root. Markdown notes live at the root, so setting the base directory to `.app` can make Netlify skip builds when only notes change.
 
 For a production build check before pushing:
 
