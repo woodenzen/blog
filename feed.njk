@@ -14,11 +14,12 @@ layout: false
     <atom:link href="https://willsimpson.netlify.app/feed.xml" rel="self" type="application/rss+xml" />
     {%- for post in collections.allPosts %}
     <item>
-      <title>{{ post.data.title | escapeXml }}</title>
-      <link>https://willsimpson.netlify.app/n/{{ post.fileSlug }}</link>
-      <guid isPermaLink="true">https://willsimpson.netlify.app/n/{{ post.fileSlug }}</guid>
-      <pubDate>{{ post.data.cdate | rssDate }}</pubDate>
-      <description><![CDATA[{{ post.content | cleanHtml }}]]></description>
+      <title>{{ post | rssTitle | escapeXml }}</title>
+      <link>https://willsimpson.netlify.app{{ post.url }}</link>
+      <guid isPermaLink="true">https://willsimpson.netlify.app{{ post.url }}</guid>
+      <pubDate>{{ (post.data.cdate or post.date) | rssDate }}</pubDate>
+      <description><![CDATA[{{ post.content | rssPlainText | cdataSafe | safe }}]]></description>
+      <content:encoded><![CDATA[{{ post.content | cleanHtml | cdataSafe | safe }}]]></content:encoded>
     </item>
     {%- endfor %}
   </channel>

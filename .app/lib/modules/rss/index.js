@@ -1,4 +1,5 @@
 import { isDraft } from '../../shared/is-draft.js';
+import * as cheerio from 'cheerio';
 
 export const rssModule = {
   setup: (eleventyConfig) => {
@@ -60,6 +61,30 @@ export const rssModule = {
         .replace(/>\s+</g, '><'); // Remove whitespace between tags
       
       return html.trim();
+    });
+
+    eleventyConfig.addFilter('rssPlainText', (content) => {
+      if (!content) return '';
+
+      const $ = cheerio.load(content);
+      $('script, style, svg, .anchor-link').remove();
+
+      const text = $.root()
+        .text()
+        .replace(/\s+/g, ' ')
+        .trim();
+
+      if (text.length <= 500) return text;
+      return `${text.slice(0, 497).trim()}...`;
+    });
+
+    eleventyConfig.addFilter('rssTitle', (post) => {
+      return post.data.title || post.fileSlug || 'Untitled';
+    });
+
+    eleventyConfig.addFilter('cdataSafe', (content) => {
+      if (!content) return '';
+      return String(content).replaceAll(']]>', ']]]]><![CDATA[>');
     });
 
     // Add a filter to escape XML
