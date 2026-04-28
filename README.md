@@ -72,9 +72,14 @@ Netlify watches the GitHub repository and runs the build defined in `netlify.tom
 
 The Netlify base directory should stay as the repository root. Markdown notes live at the root, so setting the base directory to `.app` can make Netlify skip builds when only notes change. The `base = "."` setting in `netlify.toml` pins this explicitly.
 
+Because the Node project lives in `.app/`, the Netlify command installs dependencies there before building:
+
+```sh
+npm --prefix .app ci && npm --prefix .app run build
+```
+
 For a production build check before pushing:
 
 ```sh
-cd .app
-npm run build
+npm --prefix .app run build
 ```

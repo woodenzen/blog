@@ -1,6 +1,6 @@
 [build]
   base = "."
-  command = "cd .app && npm run build"
+  command = "npm --prefix .app ci && npm --prefix .app run build"
   publish = ".app/dist"
 
 [build.environment]
