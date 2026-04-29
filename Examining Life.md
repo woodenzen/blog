@@ -11,7 +11,7 @@ description:
 	
 •	Without mindfulness, the small-minded dramas dominate. They hijack the day not because they’re powerful, but because they’re unexamined.
 
-![](media/Zivon_avatar-1.png)
+![](media/Zivon_avatar.png)
 
 
 ----------------------------------
