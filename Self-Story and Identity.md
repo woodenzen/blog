@@ -6,7 +6,6 @@ archive_tags:       #proofing #blog-post
 tags:       
       - blog-post
 description: From Caregiver to Caring
-draft: true
 ---
 I never thought much about it; it was automatic. I'd proudly announce that I was a full-time caregiver, trying to elicit some sympathy. I was turning my situation into a ballot measure for pity. Each encounter was a little campaign: please admire me, please lower the bar, please feel sorry for me.
 
