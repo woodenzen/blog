@@ -22,12 +22,13 @@
 
       <footer class="note-footer">
         {% set noteTitle = headline or title or page.fileSlug %}
-        <p>Thanks for reading.</p>
+        <p>Thanks for reading! <a href="mailto:will@kestrelcreek.com?subject={{ noteTitle | urlencode }}">If you want to start a conversation with me, send me a note.</a></p>
         <nav aria-label="Note footer">
           <a href="/">Home</a>
           <a href="/n/now/">My "Now Page"</a>
-          <a href="mailto:will@kestrelcreek.com?subject={{ noteTitle | urlencode }}">If you want to start a conversation with me, send me a note.</a>
         </nav>
+        <br>
+        <br>
       </footer>
     </article>
   </main>

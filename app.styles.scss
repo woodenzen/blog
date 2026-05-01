@@ -32,8 +32,10 @@
 
 .note-footer nav {
   display: flex;
+  flex-direction: column;
   flex-wrap: wrap;
-  gap: var(--space-3);
+  gap: var(--space-1);
+  align-items: flex-start;
 }
 
 .note-footer a {
