@@ -17,3 +17,31 @@
   font-weight: var(--font-weight-bold);
   box-shadow: inset 3px 0 0 var(--color-primary-line);
 }
+
+.note-footer {
+  margin-block-start: var(--space-7);
+  padding-block-start: var(--space-4);
+  border-block-start: 1px solid var(--color-neutral-line);
+  color: var(--color-neutral-text);
+  font-size: var(--font-size-sm);
+}
+
+.note-footer p {
+  margin-block: 0 var(--space-2);
+}
+
+.note-footer nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+}
+
+.note-footer a {
+  color: var(--color-primary-text);
+  text-underline-offset: 4px;
+  text-decoration-style: dashed;
+}
+
+.note-footer a:hover {
+  text-decoration-style: solid;
+}

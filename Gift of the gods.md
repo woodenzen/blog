@@ -4,7 +4,7 @@ UUID:      ›[[202601230616]]
 date:     2026-01-23
 archive_tags:     #blog-post 
 tags:       
-      - blog-post
+      - Stoicism
 description: 
 ---
 

@@ -4,7 +4,8 @@ UUID:      ›[[202601011602]]
 date:     2026-01-01
 archive_tags:       #meta-reading #list #ography  #blog-post 
 tags:       
-      - blog-post
+      - meta-reading 
+      - list
 description: Books I Read in 2025
 ---
 

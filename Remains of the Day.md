@@ -4,7 +4,8 @@ UUID:      ›[[202604221930]]
 date:     2026-04-22
 archive_tags:       #blog-post  #book-review #fiction 
 tags:       
-      - blog-post
+      - book-review 
+      - fiction
 description: Book Review of Remains of the Day by Kazuo Ishiguro
 ---
 Book Review   

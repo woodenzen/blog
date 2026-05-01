@@ -4,7 +4,7 @@ UUID:      ›[[202604280651]]
 date:     2026-04-28
 archive_tags:   #blog-post 
 tags:       
-      - blog-post
+      - mindfulness 
 description: 
 ---
 #### 	This morning's insight.  April 28, 2026 

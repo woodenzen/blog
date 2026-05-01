@@ -4,7 +4,7 @@ UUID:      ›[[202601141614]]
 date:     2026-01-14
 archive_tags:       #blog-post 
 tags:       
-      - blog-post
+      - cooking
 description: 
 ---
 When a recipe tells you to ‘let it cool before frosting,’ it’s not just about the cake. It’s about not reacting too fast.  It's a reminder to pause, to trust the timing, to let your presence flavor the process.

@@ -4,7 +4,8 @@ UUID:      ›[[202506040537]]
 date:     2025-06-04
 archive_tags:   #blog-post #mindset #productivity #inbox
 tags:       
-      - blog-post
+      - mindset 
+      - productivity
 description: Chasing productivity might inadvertently distance us from meaningful goals and values.
 ---
 Am I focusing on the wrong inbox? Remember to stop and ask this from time to time. The inbox is not just a list of tasks, but a reflection of our values and priorities. Am I working with my values or against them? Am I letting the productivity algorithm mindset distract me from what truly matters?

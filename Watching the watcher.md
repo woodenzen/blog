@@ -2,9 +2,9 @@
 title:      # Watching the watcher 
 UUID:      ›[[202507230700]] 
 date:     2025-07-23
-archive_tags:       #blog-post 
+archive_tags:       #blog-post #mindfulness 
 tags:       
-      - blog-post
+      - mindfulness
 description: 
 ---
 

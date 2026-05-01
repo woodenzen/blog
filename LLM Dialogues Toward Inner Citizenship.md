@@ -2,9 +2,9 @@
 title:      # LLM Dialogues Toward Inner Citizenship 
 UUID:      ›[[202507220619]] 
 date:     2025-07-22
-archive_tags:        #blog-post 
+archive_tags:        #blog-post #Socrates 
 tags:       
-      - blog-post
+      - Socratic_method
 description: Using an LLM as a Socratic partner and a Stoic mirror lets you probe assumptions, sort what’s in your control, and loosen the grip of “I,” yielding steadier navigation through modern overload.
 ---
 By combining Socratic self-examination, Stoic value-clarity, and AI-assisted perspective shifting, we can see that modern complexity is best met with disciplined curiosity and a flexible sense of self.
