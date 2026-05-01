@@ -1,1 +1,19 @@
-/* Write your custom CSS here */
+.page__main {
+  inline-size: 68ch;
+}
+
+.article p {
+  line-height: 1.72;
+}
+
+.article blockquote {
+  border-inline-start-color: var(--color-primary-line);
+  background: var(--color-neutral-bg-subtle);
+  padding: var(--space-3) var(--space-4);
+  border-radius: var(--rounded-md);
+}
+
+.nav-list__link[aria-current="page"] {
+  font-weight: var(--font-weight-bold);
+  box-shadow: inset 3px 0 0 var(--color-primary-line);
+}

@@ -2,7 +2,7 @@
 title:      # Self-Story and Identity 
 UUID:      ›[[202604290700]] 
 date:     2026-04-29
-archive_tags:       #proofing #blog-post 
+archive_tags:   #blog-post 
 tags:       
       - blog-post
 description: From Caregiver to Caring
