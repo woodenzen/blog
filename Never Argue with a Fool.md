@@ -3,9 +3,7 @@ title:      # Never Argue with a Fool
 UUID:      ›[[202501212013]] 
 date:     2025-01-21
 tags:     
-    - note
     - relationships 
-    - testing
 description: Choose composure over confrontation, recognizing that engaging in unproductive arguments undermines self-control and perpetuates chaos. 
 ---
 This shows me that I act foolishly when I argue. I lose my composure and slip into dysregulated behavior. These are instructional clichés. 
