@@ -17,6 +17,9 @@ Don't fret about why things went south; focus on what spurred recovery. This shi
 
 Reducing the time between acting poorly and recognizing that one is off track is important because it can determine the extent of the harm. It is the difference between catching a child before they run into the street and calling for an ambulance. 
 
+#### Links:
+- [On Seeing](https://willsimpson.netlify.app/n/on-seeing/)
+
 ----------------------------------
 <!--
 ## See Also

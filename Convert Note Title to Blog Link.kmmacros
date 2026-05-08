@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+  <dict>
+    <key>Activate</key>
+    <string>Normal</string>
+    <key>CreationDate</key>
+    <real>799028460.0</real>
+    <key>IsActive</key>
+    <true/>
+    <key>Macros</key>
+    <array>
+      <dict>
+        <key>Actions</key>
+        <array>
+          <dict>
+            <key>MacroActionType</key>
+            <string>Copy</string>
+            <key>UID</key>
+            <integer>1001</integer>
+          </dict>
+          <dict>
+            <key>MacroActionType</key>
+            <string>Pause</string>
+            <key>Time</key>
+            <string>0.2</string>
+            <key>UID</key>
+            <integer>1002</integer>
+          </dict>
+          <dict>
+            <key>DisplayKind</key>
+            <string>None</string>
+            <key>HonourFailureSettings</key>
+            <true/>
+            <key>IncludeStdErr</key>
+            <false/>
+            <key>MacroActionType</key>
+            <string>ExecuteShellScript</string>
+            <key>Path</key>
+            <string></string>
+            <key>Source</key>
+            <string>Text</string>
+            <key>Text</key>
+            <string>#!/bin/zsh
+python3 &lt;&lt;'PY'
+import re
+import subprocess
+import unicodedata
+
+raw = subprocess.check_output(["pbpaste"], text=True)
+source = raw.strip()
+title = source
+markdown_match = re.match(r"^\[([^\]]+)\]\([^)]+\)$", title)
+if markdown_match:
+    title = markdown_match.group(1).strip()
+else:
+    frontmatter_match = re.search(
+        r"(?m)^title:\s*(?:#+\s*)?(.+?)\s*$",
+        source,
+    )
+    heading_match = re.search(r"(?m)^#{1,6}\s+(.+?)\s*$", source)
+
+    if frontmatter_match:
+        title = frontmatter_match.group(1).strip()
+    elif heading_match:
+        title = heading_match.group(1).strip()
+    elif "\n" in source:
+        title = next((line.strip() for line in source.splitlines() if line.strip()), source)
+
+title = re.sub(r"^\[\[|\]\]$", "", title).strip()
+title = re.sub(r"^#+\s*", "", title).strip()
+title = re.sub(r"\s+#.*$", "", title).strip()
+title = re.sub(r"\s+\d{12}$", "", title).strip()
+
+slug = unicodedata.normalize("NFKD", title)
+slug = slug.encode("ascii", "ignore").decode("ascii").lower()
+slug = re.sub(r"[^a-z0-9]+", "-", slug).strip("-")
+
+if title and slug:
+    link = f"[{title}](https://willsimpson.netlify.app/n/{slug}/)"
+else:
+    link = raw
+
+subprocess.run(["pbcopy"], input=link, text=True, check=True)
+PY</string>
+            <key>TimeOutAbortsMacro</key>
+            <true/>
+            <key>TrimResults</key>
+            <true/>
+            <key>TrimResultsNew</key>
+            <true/>
+            <key>UID</key>
+            <integer>1003</integer>
+            <key>UseText</key>
+            <true/>
+            <key>Variable</key>
+            <string></string>
+            <key>Where</key>
+            <string>None</string>
+          </dict>
+        </array>
+        <key>CreationDate</key>
+        <real>799028460.0</real>
+        <key>IsActive</key>
+        <true/>
+        <key>ModificationDate</key>
+        <real>799028460.0</real>
+        <key>Name</key>
+        <string>Convert Note Title to Blog Link</string>
+        <key>Triggers</key>
+        <array/>
+        <key>UID</key>
+        <string>6D8C3AFD-B198-4070-A6E8-4A79AE9419B6</string>
+      </dict>
+    </array>
+    <key>Name</key>
+    <string>Blog Utilities</string>
+    <key>UID</key>
+    <string>BC16E950-90D9-41DB-A911-BD103E5E636B</string>
+  </dict>
+</array>
+</plist>

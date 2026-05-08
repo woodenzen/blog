@@ -11,8 +11,9 @@ description:
 
 Hesse’s idea of delight in the inexhaustible mundanity of daily life is a good way to be present in the world. Taking delight in the small things helps inoculate the future that seems so uncertain. Even as troubles arise, we can reflect that we have already lived a deeply meaningful life, feeling grateful for seeing the wonder and beauty of the world. We can say we are lucky to have seen and felt so much
 
-##### Link: 
-[Guy Tal "On Seeing"](https://guytal.blog/2025/02/21/on-seeing/)
+#### Links: 
+- [Guy Tal "On Seeing"](https://guytal.blog/2025/02/21/on-seeing/)
+- [Seeing After the Fact](https://willsimpson.netlify.app/n/seeing-after-the-fact/)
 
 ----------------------------------
 <!--
