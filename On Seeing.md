@@ -2,7 +2,7 @@
 title:      # On Seeing 
 UUID:      ›[[202605071631]] 
 date:     2026-05-07
-archive_tags:       #proofing #blog-post #vision #mindfulness 
+archive_tags:      #blog-post #vision #mindfulness 
 tags:       
       - mindfulness
 description: 
