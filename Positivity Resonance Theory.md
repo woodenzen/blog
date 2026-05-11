@@ -13,6 +13,9 @@ Small moments of shared positivity, care, and synchrony happen all the time. Thi
 
 [^1]: Major, Brett C., et al. "Well-being Correlates of Perceived Positivity Resonance: Evidence from Trait and Episode-Level Assessments." Personality & Social Psychology Bulletin, vol. 44, no. 12, 2018, p. 1631,  https://doi.org/10.1177/0146167218771324. Accessed 11 May 2026.
 
+#### Links:
+[The Correspondence](https://willsimpson.netlify.app/n/b-the-correspondence/)
+
 ----------------------------------
 <!--
 ## See Also
