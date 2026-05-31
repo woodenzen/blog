@@ -7,7 +7,7 @@ tags:
 description: What I'm doing now.
 ---
 ## My Now Page
-Last Updated: 2026.05.17
+Last Updated: 2026.05.31
 # What I’m Doing Now. 
 - My dust collection system is set up and working.
 - Walking is more enjoyable than ever. Zivon is spending a lot of time with his drag leash. We are interacting more, and that keeps his attention on the walk. I take him on a sniffari and that keeps him happy.
