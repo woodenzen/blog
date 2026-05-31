@@ -9,16 +9,16 @@ description: What I'm doing now.
 ## My Now Page
 Last Updated: 2026.05.17
 # What I’m Doing Now. 
-- My dust collection system is due to arrive this week.
+- My dust collection system is set up and working.
 - Walking is more enjoyable than ever. Zivon is spending a lot of time with his drag leash. We are interacting more, and that keeps his attention on the walk. I take him on a sniffari and that keeps him happy.
   
 #### READING
 - Seeing That Frees: Meditations on Emptiness and Dependent Arising by Rob Burbea — First Reading 3/17/2026 - 
 - Hadas, Rachel. Strange Relation: A Memoir of Marriage, Dementia, and Poetry. 1st Paul Dry Books ed, Paul Dry Books, 2011. May 4, 2026 
-- Percy, Walker. The Moviegoer. 1. Noonday Pr. ed., 13. print, Noonday Pr, 1977. Noonday Literature 321. —May 14, 2026 
 - Hanh, Thich Nhat. Living Buddha, Living Christ 20th Anniversary Edition. With Elaine Pagels and David Steindl-Rast, 20th ed, Penguin Publishing Group, 2007. - Pair Reading with Rich — May 15, 2026 
 - Shukman, Henry. Original Love: The Four Inns on the Path of Awakening. 1st ed, HarperCollins Publishers, 
 - 2024. - Pair Reading with Joe — May 15, 2026
+- A Monster Calls by Patrick Ness — May 31, 2026 
 
 #### HEALTH & VISION
     - I've been focusing on my step count — 12,481 average steps per day this week. This is something I want to focus on and keep up. This will mean I will be walking without Zivon and Mary, taking the bus downtown and walking back. I'm going to institute a 10-minute "fart" post-dinner walk with Zivon.
