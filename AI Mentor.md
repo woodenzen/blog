@@ -2,7 +2,7 @@
 title:      # AI Mentor 
 UUID:      ›[[202605210518]] 
 date:     2026-05-21
-archive_tags:       #proofing #blog-post #AI #insight #mindfulness 
+archive_tags:   #blog-post #AI #insight #mindfulness 
 tags:       
       - AI
       - mindfulness
@@ -16,6 +16,7 @@ Sam Harris, in a podcast with Susan Cain, discussed some of the characteristics 
 
 ##### Link: 
 [You Lose Interest the Moment You Realize It's AI - YouTube](https://www.youtube.com/watch?v=DLy8yYPVH-M)
+
 ----------------------------------
 <!--
 ## See Also
