@@ -2,8 +2,7 @@
 title:      # Reading and Writing as Human Expression & Connection 
 UUID:      ›[[202412240805]] 
 date:     2024-12-24
-tags:       
-      - proofing  
+tags:         
       - witness
 description: Writing is both a source of personal fulfillment and a shared gift that bridges human experiences and well-being.
 ---
