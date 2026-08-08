@@ -29,8 +29,8 @@ export default defineConfig({
         icon: "github",
       },
       {
-        url: "https://kestrelcreek.com",
-        label: "My Other Blog",
+        url: "https://www.kestrelcreek.com/wooden-zen",
+        label: "My Older Blog",
         icon: "disc",
       },
       {
