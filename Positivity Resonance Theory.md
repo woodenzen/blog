@@ -2,7 +2,7 @@
 title:      # Positivity Resonance Theory 
 UUID:      ›[[202605111349]] 
 date:     2026-05-11
-archive_tags:       #proofing #blog-post 
+archive_tags:     #blog-post 
 tags:       
       - blog-post
 description: 

@@ -7,7 +7,7 @@ tags:
       - Sunrise Briefing
       - insight
       - attention
-description: 
+description:    
 ---
 Sunrise Briefing:
 > The need to “get or grasp” anything can itself be the very grasping that obscures it. 

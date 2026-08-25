@@ -2,7 +2,7 @@
 title:      # A Better Monastery 
 UUID:      ›[[202606110913]] 
 date:     2026-06-11
-archive_tags:       #proofing #blog-post #zen #mindfulness 
+archive_tags:      #blog-post #zen #mindfulness 
 tags:       
       - zen
       - mindfulness

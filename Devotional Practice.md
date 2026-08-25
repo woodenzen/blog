@@ -2,7 +2,7 @@
 title:      # Devotional Practice 
 UUID:      ›[[202606040530]] 
 date:     2026-06-04
-archive_tags:       #proofing #blog-post #mindfulness #monk_practice 
+archive_tags:      #blog-post #mindfulness #monk_practice 
 tags:       
       - blog-post
       - devotion
