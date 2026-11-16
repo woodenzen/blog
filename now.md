@@ -47,3 +47,5 @@ Last Updated: 2026.11.15
 ---
 
 Hat tip to David Sparks for the idea for [this “Now” page](https://www.macsparky.com/now/). I’m not great at social media, but this page lets me check in with the world and update you, as David recommends, just as I would when catching up with an old friend.
+
+<!-- now-page-revision: 6c6ce6fbba08d947de4c2f17ae026f2986e11526c1a33e7f4078b265a234f474 -->
