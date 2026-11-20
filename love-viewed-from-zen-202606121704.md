@@ -25,6 +25,6 @@ How does Zen view love, both in classical literature and in contemporary practic
 
 
 ##### Link: 
-[Dogen-Shobogenzo-xx``x  -v2](https://www.upaya.org/wp-content/uploads/2022/10/Dogen-Shobogenzo-Bodaisatta-Shishobo-v2.pdf?utm_source=chatgpt.com)
+[Dogen-Shobogenzo](https://www.upaya.org/wp-content/uploads/2022/10/Dogen-Shobogenzo-Bodaisatta-Shishobo-v2.pdf?utm_source=chatgpt.com)
 
-<!-- archive-revision: 007d5d2818c64d0207f14d4d704f7c303371c47d10567a2ce21a098943c0918f -->
+<!-- archive-revision: 771adf74b83a8e5d317c59397af6c656de3c6ae1a7fba3aa2319bb2a1ea95021 -->
