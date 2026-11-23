@@ -8,44 +8,41 @@ description: What I'm doing now.
 ---
 ## My Now Page
 
-Last Updated: 2026.11.15
+Last Updated: 2026.11.22
 
 # What I’m Doing Now
 
-- Making room for writing, woodworking, reading, and friends in a week that can easily fill itself with household and caregiving responsibilities. A free hour has a lot of applicants.
-- Walking with Zivon, meeting people on the Paradise Creek Trail, and practicing asking one more question before a conversation ends. I keep discovering that an ordinary day holds more company than I noticed at the time.
-- Enjoying small things with Mary. We made biscotti together, and they disappeared quickly. A packet of old family photographs arrived this week; she spent an hour looking through them and telling stories. Sometimes the afternoon comes in the mail.
+- Finding small openings for writing, reading, and the woodshop while caring for Mary. This has been a harder week, and I’m finishing it with a cold. Rest has moved up the list.
+- Keeping in touch with friends, arranging rides, and making room for conversations that go beyond the business of getting through the day. Mary and I are looking forward to Thanksgiving potluck dinner with Jeri and Andy.
+- Enjoying the family photographs that arrived in the mail. Mary spent an hour looking through them and telling stories. A photograph can give an afternoon somewhere unexpected to go.
 
 #### WRITING
 
-- “Do You See Me?”, the research paper I coauthored with Lena Udekwu and Dr. Janine J. Darragh, is published in [Study & Scrutiny: Research on Young Adult Literature](https://journals.shareok.org/studyandscrutiny), pages 69–92. After a long wait, it feels good to share the work and hear what readers think.
-- Working on my Grave Peak essay for the 2027 Lookout Conference. My abstract deadline is February 1. I’m exploring how watching for fire connects with literature, with Norman Maclean and Gary Snyder as starting points. The question keeping me interested: what changes between the young lookout living through an uncertain summer and the older writer remembering it?
-- Taking a break from university classes while continuing to learn, write, and gather material. This week I got 45 minutes into the Grave Peak project. I’d like to give it more regular room.
+- Building a simpler path from a passage in my Bear journal to a blog draft. I now have a “Blog Work” note to help me find the pieces waiting for attention. The next part is using it regularly.
+- Practicing paraphrasing, a paragraph at a time. I’m working with a young fire watcher, the rhythm of his days, and weather that interrupts the watching. It takes more attention than swapping a few words.
+- My Grave Peak essay is still on the desk. It received less time than I wanted this week. The abstract deadline for the 2027 Lookout Conference is February 1, and I want to get back to the writing.
 
 #### READING
 
-- *Seeing That Frees: Meditations on Emptiness and Dependent Arising* by Rob Burbea. Still reading slowly.
-- *At the Existentialist Café* by Sarah Bakewell.
-- *No Recipe: Cooking as Spiritual Practice* by Edward Espe Brown, reading with Joe. I’m finishing chapter four, and we’ve arranged our next conversation.
+- *No Recipe: Cooking as Spiritual Practice* by Edward Espe Brown, reading with Joe. I’ve been gathering notes and thinking about how its ideas carry into woodworking and photography as well as cooking.
+- *Seeing That Frees: Meditations on Emptiness and Dependent Arising* by Rob Burbea remains an ongoing read. I’d like to give reading more of the time that disappears into browsing.
 
 #### HEALTH & VISION
 
-- Giving my own health more attention, including keeping track of my blood pressure. Walking remains a large and welcome part of my days.
-- Making the technology around me easier to see and use. I ordered an LG OLED television and a Mac mini this week. I’m also looking for a keyboard my eyes can get along with.
-- Making more use of help at home so there is room for the shop, appointments, and a little breathing space.
+- Continuing to track my blood pressure, walk, and eat more intentionally. This week I’ve been drinking more plain water and paying attention to between-meal snacks.
+- Learning the new television and setting up my iPad mini for reading and other everyday work. Fewer remotes already make the living room easier to manage.
+- Making use of help at home so I can get out to the shop and attend to my own appointments. A few hours with someone else taking responsibility make a difference.
 
 #### WOODWORKING
 
-- Rakusu rings are moving again. This week’s correspondence included rings in spalted maple, mesquite, red oak, white oak, and sycamore. I enjoy making a few possibilities and letting someone choose the wood that speaks to them.
-- Got back to the Palouse Woodworkers Collective and started work on woodturned Christmas ornaments and gifts. There are peppermill mechanisms waiting, too. Seeing what other people are making is part of the pleasure of going.
+- Rakusu rings are bringing some interesting conversations about wood. One design question has me looking at curly cherry and a little pale sapwood to suggest the colors of a red fox’s tail. Other conversations involve mesquite, madrone, and lighter-toned woods.
+- There is box elder burl waiting to become refrigerator magnets, along with peppermill mechanisms and Christmas ornaments in progress. I want to protect some time for turning as the holidays approach.
 
 #### EVERYDAY EXPERIMENTS
 
-- Putting AI to work on practical chores and developing The Steward, my weekly review project. I want the time it saves to find its way back into reading, writing, making things, and seeing friends.
-- Continuing to tinker with pizza dough, cook soup, and find things Mary and I can enjoy making together.
+- Continuing my weekly pizza practice. This week’s attempt taught me something about cheese and leaving the dough in the oven too long. Apparently the oven has not read my intentions.
+- Putting AI to work on the chores around writing: finding drafts, keeping track of posts, and preparing this page. The point is to leave more time for the things I wanted to do in the first place.
 
 ---
 
 Hat tip to David Sparks for the idea for [this “Now” page](https://www.macsparky.com/now/). I’m not great at social media, but this page lets me check in with the world and update you, as David recommends, just as I would when catching up with an old friend.
-
-<!-- now-page-revision: 6c6ce6fbba08d947de4c2f17ae026f2986e11526c1a33e7f4078b265a234f474 -->
