@@ -5,6 +5,7 @@ tags:
 - blog-post
 - john-cage
 - writing
+- silence
 ---
 
 Freewriting. John Cage. I want to study his life more and gain inspiration from it. I had almost forgotten about him until this morning's Hypomnemata entry, "I have nothing to say and I am saying it and that is poetry as I need it." This struck me as a way to get into more note-taking. This attitude or position of having nothing to say and saying it with style is all I can do. 
@@ -17,4 +18,4 @@ John Cage led a full life. I should read some of the papers written about his li
 
 Here I am, a fool pretending to be an intellectual. Or am I an intellectual pretending to be a fool? I do know that my potential is hidden, underexposed.
 
-<!-- archive-revision: d84ab33444b59ecf833a332d5107977ebbe0f3761e4d2f21d00ba7b7086c7515 -->
+<!-- archive-revision: 339886b7381003a3fb623ebd1088b7a7da2dc16beae903340bb1111bc6716604 -->
